@@ -1,0 +1,1587 @@
+15/12/24, 10:34 am - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+23/09/23, 5:34 pm - Rohit Korpal created group "Aiml bugs"
+23/09/23, 5:34 pm - You were added
+15/12/24, 11:12 am - Arvind: https://www.instagram.com/reel/DDZRjs3zBBs/?igsh=MWswbWhsYjNreGlhaA==
+15/12/24, 6:19 pm - +91 78272 98898: koi cr, 3d wali ma'am se question bank maanglo bhai
+15/12/24, 6:36 pm - +91 99101 32913: 🫡
+15/12/24, 7:56 pm - Niru: https://youtu.be/434pz9XIf_U?si=jnqSL6TKovUaiF2s
+16/12/24, 10:46 am - Devanshi Sharma 🩷🩷: <Media omitted>
+16/12/24, 10:46 am - Devanshi Sharma 🩷🩷: 3-D printing question bank given by mam
+16/12/24, 10:58 am - +91 72069 20277: Computer network ka kya scene h?
+16/12/24, 10:59 am - Arvind: Ye itna sa
+16/12/24, 10:59 am - Arvind: 🙂🙂
+16/12/24, 10:59 am - Arvind: Merko syllabus chaiye
+16/12/24, 10:59 am - Arvind: 3d printing ka
+16/12/24, 10:59 am - Devanshi Sharma 🩷🩷: Mam ne yhi bheja h bss
+16/12/24, 10:59 am - Arvind: Mam se bol syllabus bheje
+16/12/24, 11:00 am - Arvind: Notes k naam Google de diya pura
+16/12/24, 11:00 am - Arvind: Itne questions to 60 marks k exam me aate h 😀 question bank me jyada nahi hone chaiye
+16/12/24, 11:04 am - Arvind: <Media omitted>
+16/12/24, 11:11 am - +91 72069 20277: Bhai 24 ques hote h paper m bhi
+16/12/24, 11:12 am - Arvind: 😀😀😀 lo dekho
+16/12/24, 12:02 pm - Rohit Korpal: Chronology smjhe
+16/12/24, 12:02 pm - Rohit Korpal: 😂 😂
+16/12/24, 12:03 pm - Rohit Korpal: Bhai saare question bank bhejdo
+16/12/24, 12:03 pm - Rohit Korpal: Jaunsa Jaunsa hai
+16/12/24, 3:45 pm - Octopus 🐙🦑: Cn ka question bank bhi mang he loo <This message was edited>
+16/12/24, 8:04 pm - Rohit Korpal: humara syllabus mai 3d ka
+16/12/24, 8:05 pm - Rohit Korpal: 4d printing toh nhi hai nah?
+16/12/24, 8:06 pm - Octopus 🐙🦑: Abey yha kaha sai aa gaya
+16/12/24, 8:07 pm - Rohit Korpal: maam nah jo drive ka link bheja tha
+16/12/24, 8:07 pm - Rohit Korpal: usma dekh
+16/12/24, 8:08 pm - Rohit Korpal: ek folder hai 4d printing ka
+16/12/24, 8:08 pm - +91 72069 20277: <Media omitted>
+17/12/24, 12:09 pm - Niru: kal kis chiz ka practical hai?
+17/12/24, 12:09 pm - Arvind: Os web dev
+17/12/24, 1:58 pm - Niru: <Media omitted>
+17/12/24, 1:59 pm - Niru: vaise iska naam stephen sanchez hai
+17/12/24, 1:59 pm - +91 90345 46650: Bhai kyu mjak krr raha h
+17/12/24, 1:59 pm - Niru: abe shi me
+17/12/24, 1:59 pm - Niru: iska nam dalkar dekh
+17/12/24, 2:00 pm - Niru: <Media omitted>
+17/12/24, 2:00 pm - Niru: ye dekh
+17/12/24, 2:00 pm - +91 86077 86597: no
+17/12/24, 2:00 pm - Niru: chal thik hai
+17/12/24, 2:00 pm - Niru: mujhe laga
+17/12/24, 2:02 pm - दीपक यादव: Ye mazak ka time h ??
+17/12/24, 2:49 pm - +91 96253 72007: Bohot difference hai ✋
+17/12/24, 2:51 pm - +91 88823 09014: guys I think yeh banda Stephen Sanchez jaisa dikhta hai
+17/12/24, 2:52 pm - Niru: <Media omitted>
+18/12/24, 9:04 am - +91 95606 62857: <Media omitted>
+18/12/24, 10:03 am - Jatin: Write down the uses of cat command with syntax and explain three cat suboptions.
+18/12/24, 10:03 am - Jatin: The cat command in Linux and Unix systems is used to display, concatenate, and manipulate text files. It is a versatile tool for managing and viewing file contents directly from the command line.
+
+
+---
+
+Syntax
+
+cat [OPTIONS] [FILE...]
+
+[OPTIONS]: Modifies the behavior of the cat command.
+
+[FILE...]: Specifies one or more files to process.
+
+
+
+---
+
+Uses of the cat Command
+
+1. Display File Content
+View the contents of a file directly in the terminal.
+
+cat filename.txt
+
+
+2. Concatenate Files
+Combine multiple files into one or display them sequentially.
+
+cat file1.txt file2.txt > combined.txt
+
+
+3. Create New Files
+Use the cat command to create a new file by typing content interactively.
+
+cat > newfile.txt
+
+
+4. Append Content to an Existing File
+Add new content to the end of an existing file.
+
+cat >> existingfile.txt
+
+
+5. Number Lines in a File
+Display line numbers for each line in a file.
+
+cat -n filename.txt
+
+
+
+
+---
+
+Three Important cat Sub-options
+
+1. -n (Number Lines)
+
+Adds line numbers to the output for each line of the file.
+
+Usage:
+
+cat -n filename.txt
+
+Explanation: This option is useful when debugging or referencing specific lines in a file.
+
+
+
+2. -b (Number Non-Empty Lines)
+
+Adds line numbers only to non-empty lines, skipping blank lines.
+
+Usage:
+
+cat -b filename.txt
+
+Explanation: Helps in situations where empty lines should not be counted, like in code files.
+
+
+
+3. -s (Suppress Repeated Blank Lines)
+
+Collapses multiple blank lines into a single blank line in the output.
+
+Usage:
+
+cat -s filename.txt
+
+Explanation: Useful for cleaning up files with excessive blank lines.
+
+
+
+
+
+---
+
+Example Combining Options
+
+To display a file with line numbers for non-empty lines while suppressing repeated blank lines:
+
+cat -b -s filename.txt
+18/12/24, 11:21 am - Devanshi Sharma 🩷🩷: Group 1 wale viva k liye aa jai
+18/12/24, 11:21 am - Devanshi Sharma 🩷🩷: Jao
+18/12/24, 12:11 pm - Devanshi Sharma 🩷🩷: Deepanshu Jangra
+18/12/24, 12:12 pm - Devanshi Sharma 🩷🩷: R u coming for  viva??
+18/12/24, 12:20 pm - Devanshi Sharma 🩷🩷: Group 2 jisko wd ka viva dena ho woh 420 m jaoo
+18/12/24, 12:26 pm - Ritika Btech Cse: Everyone come in 420 for viva
+18/12/24, 2:19 pm - Arvind: This message was deleted
+18/12/24, 2:21 pm - Ritika Btech Cse: WD ka written 414 mein h
+18/12/24, 9:46 pm - Arvind: https://www.instagram.com/reel/DDpFk_0JEIV/?igsh=MTN5eXc0cXJoeGNxOQ==
+19/12/24, 1:51 pm - +91 86077 86597: Human values and ethics ka syllabus bhej do koi
+19/12/24, 2:10 pm - +91 93063 58143: <Media omitted>
+19/12/24, 2:10 pm - +91 93063 58143: <Media omitted>
+19/12/24, 2:10 pm - +91 93063 58143: <Media omitted>
+19/12/24, 2:10 pm - +91 93063 58143: <Media omitted>
+19/12/24, 2:12 pm - +91 93063 58143: Har ek document k upar uska syllabus likha hua h
+19/12/24, 7:09 pm - +91 94162 12356: <Media omitted>
+20/12/24, 2:03 am - +91 70659 06482: This message was deleted
+20/12/24, 12:26 pm - +91 94162 12356: Arre admit card ka kya scene h bhai
+20/12/24, 12:28 pm - Rohit Korpal: Ara hn
+20/12/24, 12:28 pm - Rohit Korpal: Ara inam sir ka imp topics and 8 marker questions pata hai toh bata do
+20/12/24, 3:55 pm - +91 88823 09014: Yo
+20/12/24, 3:55 pm - +91 88823 09014: NEP subjects ki datesheet kya hai
+20/12/24, 3:58 pm - +91 88823 09014: nvm mil gya mujhe
+20/12/24, 3:59 pm - +91 88823 09014: 24th 3D printing 
+26th Human Values & Ethics
+27th Computer Network
+20/12/24, 4:01 pm - +91 96253 72007: Yes
+20/12/24, 6:38 pm - Vishal: <Media omitted>
+20/12/24, 6:38 pm - Vishal: Guyss ye officially nahi aaya he
+20/12/24, 6:38 pm - Vishal: Ye humare unofficial group pe aaya he
+20/12/24, 6:39 pm - +91 90345 46650: Officially aaya h bhai
+20/12/24, 6:39 pm - Vishal: Kha pe
+20/12/24, 6:39 pm - +91 90345 46650: Telegram
+20/12/24, 6:39 pm - +91 90345 46650: Feat
+20/12/24, 6:39 pm - Vishal: Ohh
+20/12/24, 6:39 pm - Vishal: Me nahi hu add us group me
+21/12/24, 12:16 am - Neha Sharma: Hey!! Koi bta sakta h ki kal clg open rahega ya close
+21/12/24, 12:17 am - +91 99101 32913: kaam p depend krta h ?
+21/12/24, 12:17 am - Neha Sharma: Means??
+21/12/24, 12:17 am - +91 99101 32913: kaam kya h ??
+21/12/24, 12:18 am - Neha Sharma: Mujhe nhi h koi kaam meri ek friend h usse h
+21/12/24, 12:18 am - +91 99101 32913: open rhega collage !!!
+21/12/24, 12:18 am - Neha Sharma: Or wo dur se aati h toh kaam hone ke baad wapas bhi nhi ja sakti
+21/12/24, 12:19 am - Neha Sharma: Pkka
+21/12/24, 12:19 am - Neha Sharma: Means library open rehti h kya ??
+21/12/24, 12:19 am - +91 99101 32913: 99.99% open rhega 0.1%may be closed
+21/12/24, 12:20 am - +91 99101 32913: haan library open hi rhti h
+21/12/24, 12:20 am - Neha Sharma: Okk thanku
+21/12/24, 12:21 am - +91 99101 32913: 🫡
+21/12/24, 12:33 am - Jatin: Are open hai clg ha skte ho
+21/12/24, 12:34 am - Neha Sharma: Okk
+21/12/24, 12:42 am - +91 86077 86597: Haan open hai
+21/12/24, 9:00 pm - Octopus 🐙🦑: Cn ka syllabus bhej do koi
+21/12/24, 10:45 pm - +91 93063 58143: Yo guys admitcard nikal lo
+21/12/24, 10:45 pm - +91 93063 58143: Aagya h erp.pe
+22/12/24, 12:01 am - +91 93063 58143: https://drive.google.com/drive/folders/1R6W875G8SNtTYry8T5gicMXV-TJgL2kX
+22/12/24, 6:01 pm - Rohit Korpal: <Media omitted>
+22/12/24, 6:02 pm - Jatin: Pta nhi
+22/12/24, 6:05 pm - Rohit Korpal: kisi aur ko pta hai?
+22/12/24, 6:05 pm - Jatin: Ha yehi hai
+22/12/24, 6:05 pm - Jatin: Shi hai
+22/12/24, 6:06 pm - Rohit Korpal: okk
+22/12/24, 10:09 pm - Niru: 3D printing ka kitne marks ka exam hai
+22/12/24, 10:10 pm - दीपक यादव: I guess 30
+22/12/24, 10:11 pm - Rohit Korpal: 60
+23/12/24, 12:40 am - Jatin: <Media omitted>
+23/12/24, 12:40 am - Jatin: 9 question me specific ke baad kya likha hai
+23/12/24, 12:58 am - Arvind: Anatomical
+23/12/24, 12:58 am - Jatin: Ok
+23/12/24, 9:31 am - Jatin: https://www.instagram.com/reel/DD15khuPRK0/?igsh=MTZqaTRzOHJnbzZwZg==
+23/12/24, 10:30 am - Arvind: https://www.instagram.com/reel/DD3zeUgtm6m/?igsh=MWl3dGJrcWFjb2Q3Yw==
+23/12/24, 10:32 am - Jatin: https://www.instagram.com/reel/DD20DqITW2l/?igsh=cW02NXkzb2JxZmJh
+23/12/24, 11:04 am - Jatin: https://www.instagram.com/reel/DDZhavnyNKh/?utm_source=ig_web_copy_link
+23/12/24, 11:47 am - Jatin: https://www.instagram.com/reel/DD2byXbAic0/?utm_source=ig_web_copy_link
+23/12/24, 2:29 pm - Jatin: https://www.instagram.com/p/DDcVjoCSDfG/?igsh=MWdhNXE4a2FldTZscw==
+23/12/24, 3:01 pm - Arvind: Aaj kon kon college gya h ??
+23/12/24, 3:12 pm - +91 85888 17550: ✋🏻
+23/12/24, 4:51 pm - Arvind: https://www.instagram.com/reel/DD6D019KRsO/?igsh=ZDFiOW13Mm93MmVl
+23/12/24, 4:52 pm - Arvind: <Media omitted>
+23/12/24, 4:52 pm - दीपक यादव: Yes
+23/12/24, 4:54 pm - +91 93063 58143: <Media omitted>
+23/12/24, 4:56 pm - Arvind: @919128090281 @919518194737 
+both on first bench
+🫡
+23/12/24, 4:57 pm - +91 91280 90281: 😭😭😭😭😭😭
+23/12/24, 4:57 pm - Ritika Btech Cse: Bhai😭😭😭😭😭
+23/12/24, 4:57 pm - Ritika Btech Cse: Khatam tata bye bye
+23/12/24, 4:57 pm - Rohit Korpal: mai bach gaya
+23/12/24, 4:57 pm - Rohit Korpal: 😭😭
+23/12/24, 4:57 pm - Ritika Btech Cse: Abeee
+23/12/24, 4:58 pm - Arvind: Good luck padhna shuru krdo 🤣🤣🤣🤣
+23/12/24, 4:58 pm - Neha Sharma: Fir bhi ro rha hai
+23/12/24, 4:58 pm - +91 93063 58143: Bhaion law m kyu bhej  dia hme
+23/12/24, 4:58 pm - Rohit Korpal: Khushi ka ansoo
+23/12/24, 4:58 pm - Neha Sharma: Aachaa 😂😂
+23/12/24, 4:59 pm - Arvind: 🙄 for instant results after making UMC
+23/12/24, 4:59 pm - +91 93063 58143: Vahi vakalat chalu
+23/12/24, 5:00 pm - Arvind: You can't break tha law sitting in law faculty 😂😂
+23/12/24, 5:00 pm - +91 93063 58143: Umc toh physical means pe lgti h
+23/12/24, 5:00 pm - +91 93063 58143: Normal cheating pe thodi
+23/12/24, 5:01 pm - Arvind: Bhai aap Engineering kar rhe ho ya LAW 😂
+23/12/24, 5:01 pm - Arvind: I know engineering bhi nhi ho rhi but law me kyu jana h
+23/12/24, 5:01 pm - +91 93063 58143: Dhang se toh kuch bhi nahi
+23/12/24, 5:02 pm - +91 93063 58143: Seat acchi mil gyi lekin poochne ke lie log hi nahi h
+23/12/24, 5:03 pm - Arvind: <Media omitted>
+23/12/24, 5:10 pm - +91 93063 58143: This message was deleted
+23/12/24, 5:10 pm - Arvind: 😌yes yes
+23/12/24, 5:11 pm - +91 93063 58143: Chalo padh loon
+23/12/24, 5:11 pm - +91 93063 58143: Aas paas walo ko pass bhi toh krana h
+23/12/24, 5:13 pm - Jatin: Smaaj seva
+24/12/24, 5:26 am - Jatin: https://www.instagram.com/reel/C9sAyvSy7fA/?igsh=Z3V2aGxyMGVtMmQ=
+24/12/24, 5:28 am - Jatin: https://www.instagram.com/reel/C84KLk5sqyT/?igsh=MWk4dWs1ZWxubDB2Mw==
+24/12/24, 5:05 pm - +91 93063 58143: https://youtu.be/HmkbBdD8044?si=iQB8XfM0p88OVvNx
+24/12/24, 5:06 pm - +91 93063 58143: The most craziest live performance every
+25/12/24, 1:01 am - +91 93063 58143: This message was deleted
+25/12/24, 9:03 am - Rohit Korpal: guys
+25/12/24, 9:03 am - Rohit Korpal: kl ka aecc ka paper ka lia
+25/12/24, 9:03 am - Rohit Korpal: sirf wo 4 word doc padhna hai?
+25/12/24, 9:04 am - Rohit Korpal: maam nah kuch bataya nhi kya imp hai kya nhi ya koi ques bank dia ho
+25/12/24, 9:04 am - Rohit Korpal: ?
+25/12/24, 9:26 am - Rohit Korpal: paper kitna marks ka ha?
+25/12/24, 11:25 am - +91 93063 58143: <Media omitted>
+25/12/24, 11:25 am - +91 93063 58143: <Media omitted>
+25/12/24, 11:25 am - +91 93063 58143: <Media omitted>
+25/12/24, 11:25 am - +91 93063 58143: <Media omitted>
+25/12/24, 12:04 pm - Arvind: This message was deleted
+25/12/24, 4:26 pm - Neha Sharma: <Media omitted>
+25/12/24, 4:26 pm - Neha Sharma: <Media omitted>
+25/12/24, 4:27 pm - Neha Sharma: <Media omitted>
+25/12/24, 4:27 pm - Neha Sharma: <Media omitted>
+25/12/24, 4:28 pm - Neha Sharma: <Media omitted>
+25/12/24, 7:39 pm - Niru: Medical robotics
+25/12/24, 7:39 pm - Niru: Engineering maths
+25/12/24, 7:39 pm - Niru: Engineering physics
+25/12/24, 7:39 pm - Niru: Applied ai
+25/12/24, 7:39 pm - Niru: Introduction to ai
+25/12/24, 7:39 pm - Niru: Pps
+25/12/24, 7:40 pm - Niru: in subjects ke previous year paper hai?
+25/12/24, 7:40 pm - Niru: hai to bhej dena
+25/12/24, 7:40 pm - Arvind: 😏😏 juniors me no. Banana chahta h
+25/12/24, 7:40 pm - +91 93063 58143: Mind reader
+25/12/24, 10:23 pm - Arvind: https://www.instagram.com/reel/DD8epetohlS/?igsh=M2NjMmt0ajkwc3Ny
+26/12/24, 12:03 pm - Arvind: Kya selection Krna chaiye
+26/12/24, 12:06 pm - दीपक यादव: Kuchh bhi kr baad mein sabki ek hi Subject milna h 🥲🥲
+26/12/24, 12:06 pm - Arvind: Aree shyd alg mil jaye
+26/12/24, 12:37 pm - 🌜Anshuman🌛 Cr: nhi ye log tally krte h
+26/12/24, 12:37 pm - 🌜Anshuman🌛 Cr: and Ritika n bhej rkhe h subject list
+26/12/24, 12:37 pm - Ritika Btech Cse: Subjects already decided hain tumhe bs fill Krna h
+26/12/24, 12:38 pm - Ritika Btech Cse: Mgec - product design and development 
+VAC - computer hardware and troubleshooting
+26/12/24, 12:47 pm - Arvind: 🥲🥲🥲🥲
+26/12/24, 12:47 pm - Arvind: Why the hell then they asking u
+26/12/24, 12:47 pm - Arvind: Us
+26/12/24, 12:47 pm - Arvind: Mgec bekar hai
+26/12/24, 1:14 pm - +91 70659 06482: Kyu bhai....rope designing seekhenge.... placement k baad kaam ayega
+26/12/24, 1:14 pm - +91 70659 06482: <Media omitted>
+26/12/24, 2:28 pm - Jatin: Phele 3d printing
+Abb product design
+26/12/24, 2:28 pm - Jatin: Computer network phele abb computer hardware
+26/12/24, 2:52 pm - Arvind: sahi to h
+26/12/24, 5:17 pm - +91 93063 58143: Assignment 1.Hamming Code
+Web Communication and APIs.
+CRC
+
+
+Assignment 2. Cloud Networking and Services
+TCP vs. UDP
+Network Attacks: DoS, DDoS, Spoofing.   Date of submission 25th of nov 2024...
+26/12/24, 5:18 pm - +91 93063 58143: <Media omitted>
+26/12/24, 5:18 pm - +91 93063 58143: <Media omitted>
+26/12/24, 5:20 pm - +91 93063 58143: <Media omitted>
+26/12/24, 5:20 pm - +91 93063 58143: <Media omitted>
+26/12/24, 5:20 pm - +91 93063 58143: <Media omitted>
+26/12/24, 5:29 pm - Rohit Korpal: bhai some imp ques or anything
+26/12/24, 5:30 pm - Rohit Korpal: ?
+26/12/24, 6:10 pm - +91 93063 58143: ask the toppers bruv I aint got connections
+26/12/24, 6:24 pm - Rohit Korpal: 🥲
+26/12/24, 6:25 pm - +91 88823 09014: @919350252541 @919869740402
+sir ne jo imp questions btaye the vo bhej do plez
+26/12/24, 6:28 pm - Devanshi Sharma 🩷🩷: Mere pass khud nhi h
+26/12/24, 6:35 pm - +91 95606 62857: <Media omitted>
+26/12/24, 6:38 pm - +91 93063 58143: Dam Bro came up swinging
+26/12/24, 6:59 pm - +91 70659 06482: <Media omitted>
+26/12/24, 7:13 pm - Riya Sharma: Tereko kaise pta
+26/12/24, 7:14 pm - +91 70659 06482: Kbhi kbhi le leta tha cls
+26/12/24, 7:14 pm - +91 70659 06482: Or coincidentally ussi cls mein sir ne btaya tha
+26/12/24, 9:04 pm - Rohit Korpal: bhai cn ki assignment bhejdo
+26/12/24, 9:08 pm - Jatin: The terms "native" and "subnative" can have different meanings depending on the context in which they are used. Below is an explanation tailored to general scenarios:
+
+### **1. Native**
+- **Definition**: Native refers to something that is original, inherent, or functioning naturally in a specific environment or system.
+- **Examples**:  
+  - **In Technology**: Native applications are software programs designed to run on a specific platform or operating system, such as a mobile app developed specifically for iOS or Android.
+  - **In Biology**: A species that originates and exists naturally in a specific habitat.
+  - **In Language**: A native speaker is someone who speaks a language as their first language from birth.
+- **Key Characteristics**:  
+  - Fully optimized for the environment in which it operates.  
+  - Tends to perform better in its designated environment.
+
+---
+
+### **2. Subnative**
+- **Definition**: Subnative refers to something that is derived, secondary, or functioning in a way that is not fully natural or inherent but still compatible with the system.
+- **Examples**:  
+  - **In Technology**: A subnative application could refer to software that runs in an environment it wasn't originally designed for but works with some adaptations (e.g., a cross-platform app).  
+  - **In Biology**: Subnative could refer to species introduced to a habitat but not originally belonging to it, though they may coexist without being invasive.
+  - **In Language**: A subnative speaker might be someone who is fluent in a language but not as proficient as a native speaker.
+- **Key Characteristics**:  
+  - May not fully utilize the capabilities of the system or environment.  
+  - Might require adjustments to function efficiently.
+
+---
+
+### **Comparison**
+| Aspect           | Native                               | Subnative                             |
+|------------------|-------------------------------------|---------------------------------------|
+| **Origin**       | Original and inherent               | Derived or secondary                  |
+| **Optimization** | Fully optimized for the environment | Partially optimized or adapted        |
+| **Performance**  | High                                | Relatively lower compared to native   |
+| **Examples**     | Native app, native species          | Cross-platform app, introduced species|
+
+### **Conclusion**
+The distinction between native and subnative lies in how intrinsic something is to its environment. Native implies original and optimal, while subnative suggests compatibility with some level of adaptation or derivation.
+26/12/24, 10:33 pm - दीपक यादव: In---tel----legend Bro 🔥😱😱😱
+26/12/24, 10:34 pm - +91 95606 62857: This message was deleted
+26/12/24, 10:34 pm - +91 95606 62857: Baba ki dya te 🔥
+27/12/24, 12:22 am - Niru: https://www.instagram.com/reel/DDRvzy2TgQL/?utm_source=ig_web_copy_link
+27/12/24, 1:32 pm - Ritika Btech Cse: Mgec - product design and development 
+VAC - computer hardware and troubleshooting
+27/12/24, 1:32 pm - Ritika Btech Cse: Guys fill Kardo vo forms jisne nhi kiye aur ye choice filling krni h
+27/12/24, 1:33 pm - Ritika Btech Cse: https://docs.google.com/forms/d/e/1FAIpQLSe4RdijAcMAXhDk2599CUuLzXmVBOhIkpJgZB3FOR7RH6Tbqg/viewform?usp=sf_link
+27/12/24, 10:57 pm - Arvind: Kal konsa paper h
+27/12/24, 10:57 pm - +91 88823 09014: <Media omitted>
+27/12/24, 11:00 pm - +91 93063 58143: system design
+28/12/24, 6:19 am - Rohit Korpal: Aaj koi paper hai???
+28/12/24, 10:21 am - +91 78272 98898: Isn't it too late to ask?
+28/12/24, 10:22 am - Rohit Korpal: Hn but humara toh koi nhi hai
+28/12/24, 6:08 pm - Arvind: https://www.instagram.com/reel/DD9sceLzibF/?igsh=MXhtdnFlYnBhMHphdg==
+29/12/24, 11:08 am - Niru: <Media omitted>
+29/12/24, 4:50 pm - दीपक यादव: BEEE ka syllabus or Notes kisi pe pade h toh please send kr do
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:41 pm - +91 93063 58143: all of beee
+29/12/24, 6:43 pm - +91 93063 58143: would prefer u should read prolly assignments it will help youo
+29/12/24, 6:44 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:44 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:44 pm - +91 93063 58143: <Media omitted>
+29/12/24, 6:45 pm - +91 96253 72007: sem 1 nostalgia
+29/12/24, 6:45 pm - +91 93063 58143: real
+29/12/24, 6:45 pm - +91 93063 58143: tbh sem 1 nightmares
+29/12/24, 6:57 pm - Rohit Korpal: guys
+29/12/24, 6:57 pm - Rohit Korpal: koi DSE k notes bhejdo
+30/12/24, 9:03 am - +91 98718 08680: kisi k pass egad  ka material ha
+30/12/24, 9:03 am - +91 98718 08680: To bhej do
+30/12/24, 10:35 am - Arvind: https://www.instagram.com/reel/DEKCBYjv-68/?igsh=MTV6a2h4eXprc3RrMQ==
+30/12/24, 5:51 pm - Devanshi Sharma 🩷🩷: Very Short Answer Questions
+
+1.What is R?
+2.What is the command to get the current working directory in R?
+3.Name one built-in dataset in R.
+4.Write a command to create a vector containing numbers 1 to 5.
+5.How do you comment a line in R?
+6.What is the file extension for R scripts?
+7.How do you assign a value to a variable in R?
+8.Write the function to find the length of a vector.
+9.What does the head() function do in R?
+10.Name one library in R used for data visualization.
+
+Type 2: Short Answer Questions
+
+1.What are vectors in R? Provide an example.
+2.Differentiate between c() and seq() functions in R.
+3.Write a command to calculate the mean of the numbers 10, 20, and 30.
+4.Explain the use of the summary() function in R.
+5.Write an example of creating a simple data frame in R with two columns: Name and Age.
+
+Type 3: Descriptive Answer Questions
+
+1.What are the key features of R? Explain briefly.
+2.Describe the different types of data objects in R with examples.
+3.How do you import a CSV file into R? Provide a code example.
+4.Explain the use of the plot() function with an example.
+5.Write a code snippet to create a bar plot for the following data:
+  Categories: A, B, C
+  Values: 5, 10, 15
+
+Type 4: Long Answer Questions
+
+1.What are the main data structures in R? Explain each with examples.
+2.Describe the process of creating and using functions in R with examples.
+3.Discuss the concept of loops in R. Explain for, while loops with examples.
+4.How can R be used for statistical analysis? Provide an example where you calculate mean, median, and standard deviation of a dataset.
+5.Discuss the process of data visualization in R. Explain how to create a histogram, scatterplot, and boxplot with code examples.
+30/12/24, 5:51 pm - Devanshi Sharma 🩷🩷: Question bank of R
+31/12/24, 3:05 pm - +91 93063 58143: https://youtube.com/shorts/7ABOH2PUVsE?si=d8vWfuilJuMYcjA3
+01/01/25, 12:26 am - Arvind: ‼️‼️‼️*My Dear Friends,*
+
+*This is a another gentle reminder to renew your Friendship Subscription with me for 2025 by making a small payment of ₹500 before 10th Jan.*
+
+*Failure to renew on time might cost you more later, as we still have many semesters ahead, and trust me, you may need my notes, help, or unique skills in those times of crisis. So, it’s better to invest now than regret later!*
+
+*Yours truly, (m@ybe)*
+*Arvind*‼️‼️‼️
+01/01/25, 12:27 am - Arvind: Yeah Happy New year to you all 🎊🎊✨✨
+01/01/25, 12:27 am - Rohit Korpal: Happy new year everyone 🎉🎉🍾🍾🍾
+01/01/25, 12:28 am - Neha Sharma: Happy New year everyone 🥳🥳🎉🎉
+01/01/25, 4:47 am - +91 93063 58143: Need trial period first
+01/01/25, 9:08 am - Arvind: 😂 ye 3 semester kya kaafi nhi the
+01/01/25, 9:09 am - Rohit Korpal: 😂 😂
+01/01/25, 9:11 am - Ritika Btech Cse: Same to you arvind, payment time kr dena🙏
+01/01/25, 9:16 am - दीपक यादव: Koi late fee bhi h kya ?
+01/01/25, 9:23 am - +91 93063 58143: Late fee chod ispe 18% gst h kya (shoutout nimmo didi)
+01/01/25, 9:26 am - दीपक यादव: Tu Nimmo didi ko Idea kiu de raha h 🥲
+01/01/25, 9:26 am - +91 93063 58143: Are nahi main tax evade kr leta
+01/01/25, 9:30 am - +91 93063 58143: I ain't paying no gst on my child support
+01/01/25, 10:52 am - Arvind: https://www.instagram.com/reel/DEPokZYSNhS/?igsh=NThqOXEwMmp4bGto
+01/01/25, 11:06 am - दीपक यादव: Kr diya New Year Kharab
+01/01/25, 11:09 am - +91 93063 58143: <Media omitted>
+01/01/25, 11:24 am - दीपक यादव: https://www.instagram.com/reel/DEP--QLy6R8/?igsh=MWgxeWczcWhvNDl1Mg==
+01/01/25, 4:21 pm - Arvind: https://www.instagram.com/reel/DEJgy69PbmP/?igsh=OWN0YzAwZWl4Z3Fy
+01/01/25, 9:31 pm - +91 94162 12356: https://innoverse36.zohosites.in/
+01/01/25, 9:32 pm - +91 94162 12356: Hackathon me part lena h toh free registration h 36 hours college me rehna h
+01/01/25, 9:32 pm - +91 94162 12356: 3 member minimum
+01/01/25, 9:32 pm - +91 94162 12356: 7 member maximum
+02/01/25, 12:24 pm - Arvind: DE ka midterm question paper koi bhej skta h ??
+02/01/25, 12:26 pm - Arvind: And baaki teeno ka bhi
+02/01/25, 3:22 pm - +91 86077 86597: DE ka question bank diya hai kya maam ne?
+02/01/25, 3:35 pm - Devanshi Sharma 🩷🩷: Hnn
+02/01/25, 3:35 pm - Devanshi Sharma 🩷🩷: <Media omitted>
+02/01/25, 10:57 pm - +91 86077 86597: DE ka midterm ka question paper hai toh bhej do
+02/01/25, 11:45 pm - +91 93063 58143: Yo look what I found
+02/01/25, 11:45 pm - +91 93063 58143: <Media omitted>
+02/01/25, 11:45 pm - +91 93063 58143: <Media omitted>
+03/01/25, 12:14 am - +91 88823 09014: egad
+03/01/25, 12:25 am - +91 93063 58143: yuh
+03/01/25, 9:47 am - Devanshi Sharma 🩷🩷: Kisine DE ka question bank solve krr liya kya???
+03/01/25, 10:15 am - Niru: <Media omitted>
+03/01/25, 7:35 pm - +91 93063 58143: <Media omitted>
+04/01/25, 2:43 pm - Rohit Korpal: bhai kisiko yaad hai dse ka 8 marks ka ques?
+04/01/25, 3:41 pm - +91 93063 58143: <Media omitted>
+04/01/25, 3:41 pm - +91 93063 58143: <Media omitted>
+04/01/25, 3:41 pm - +91 93063 58143: Kisiko aata h toh step by step likhke bhej do
+04/01/25, 4:23 pm - +91 93063 58143: Implement the equation using universal gate
+04/01/25, 4:41 pm - +91 96253 72007: Gates bana ke karna hai
+04/01/25, 4:41 pm - +91 96253 72007: And kar pehele
+04/01/25, 4:41 pm - +91 96253 72007: Then or
+04/01/25, 4:41 pm - +91 96253 72007: And compliments dekhliyo
+04/01/25, 4:42 pm - +91 88823 09014: wait you guys are studying?
+04/01/25, 4:53 pm - +91 96253 72007: Started just now
+04/01/25, 4:53 pm - +91 96253 72007: And stopped after 10 mins
+04/01/25, 5:52 pm - Niru: <Media omitted>
+04/01/25, 6:13 pm - +91 93063 58143: <Media omitted>
+04/01/25, 8:15 pm - +91 70659 06482: <Media omitted>
+04/01/25, 9:17 pm - Arvind: Are bata to Diya karo😂😂 wo official group hai AIML bugs nhi
+04/01/25, 9:18 pm - दीपक यादव: 😂😂
+04/01/25, 9:18 pm - दीपक यादव: Hn bhai aaya swad ??
+04/01/25, 9:18 pm - दीपक यादव: 😂😂😂
+05/01/25, 12:55 am - +91 93063 58143: This message was deleted
+05/01/25, 12:55 am - +91 93063 58143: This message was deleted
+05/01/25, 2:12 am - +91 93063 58143: https://youtu.be/4pkWGvTFfSY?si=Ctv7QxolDEcRkEDq
+05/01/25, 2:12 am - +91 93063 58143: This has no context it randomly popped on my feed
+05/01/25, 4:17 am - +91 88823 09014: @
+06/01/25, 4:30 pm - Rohit Korpal: Construct a binary to octal code convertor and explain its operation with the help of a 
+truth table.
+06/01/25, 4:30 pm - Rohit Korpal: kisi nah ye ques kra hai kya?
+06/01/25, 4:30 pm - Rohit Korpal: kra hai toh ans bhejdo
+06/01/25, 4:48 pm - Niru: youtube pe dekh le
+06/01/25, 5:36 pm - Rohit Korpal: nhi mila
+06/01/25, 5:52 pm - Arvind: Sb pdh rhe h mai so rha hu🥲🥲
+06/01/25, 6:01 pm - Arvind: <Media omitted>
+06/01/25, 6:06 pm - +91 93063 58143: Is it me or whenever I pick books my parents assign me some random  work
+06/01/25, 6:08 pm - Arvind: Dunno about work but my mind just asks me to sleep or to watch reels 🙄
+It wants me to fail 😫
+06/01/25, 6:13 pm - +91 93063 58143: When ever I see book 
+I am like 🤮🤮🤮🤮
+06/01/25, 6:14 pm - Arvind: <Media omitted>
+06/01/25, 6:14 pm - Arvind: Me with studies
+06/01/25, 6:14 pm - Arvind: <Media omitted>
+06/01/25, 6:14 pm - Arvind: Reels series time paas
+06/01/25, 6:52 pm - +91 88823 09014: POS waale k map mai 1 ki jagah zero likhte hai na?
+06/01/25, 7:09 pm - +91 78272 98898: Yes
+06/01/25, 7:12 pm - +91 93063 58143: <Media omitted>
+06/01/25, 7:12 pm - +91 88823 09014: okk
+06/01/25, 7:12 pm - +91 88823 09014: jack sparrow
+06/01/25, 7:13 pm - +91 93063 58143: Jack don't associate with sparrow these days
+06/01/25, 7:14 pm - +91 93063 58143: <Media omitted>
+06/01/25, 7:21 pm - +91 88823 09014: Jack Daniels
+06/01/25, 7:24 pm - +91 93063 58143: Dekhio agle 3 message k baad koi disturb ho jaega aur bolega personal chat pe baat krlo <This message was edited>
+06/01/25, 7:24 pm - +91 93063 58143: Subtle foreshadowing
+06/01/25, 7:24 pm - +91 96253 72007: Guys
+06/01/25, 7:24 pm - +91 96253 72007: Personal chat pe baat karlo
+06/01/25, 7:26 pm - +91 93063 58143: <Media omitted>
+06/01/25, 7:26 pm - +91 88823 09014: real
+06/01/25, 7:26 pm - +91 88823 09014: 😨😨
+06/01/25, 7:26 pm - +91 88823 09014: bhavishya vaani
+06/01/25, 7:30 pm - +91 93063 58143: <Media omitted>
+06/01/25, 7:35 pm - +91 88823 09014: future
+06/01/25, 7:35 pm - +91 88823 09014: like the artist
+06/01/25, 7:39 pm - +91 88823 09014: I'm livin in the future so my present is my past, my presence is a present kiss my ass
+06/01/25, 8:59 pm - Rohit Korpal: Quine-McCluskey Tabular
+06/01/25, 8:59 pm - Rohit Korpal: iska notes hai?
+06/01/25, 9:13 pm - दीपक यादव: Bhai ye tune Blue Film ki CD kiu promote kr raha h vo bhi Pirated
+06/01/25, 9:14 pm - Arvind: https://www.instagram.com/reel/DEXo_sDIj8h/?igsh=ZDl1ejcxa3ZtZGEz
+06/01/25, 9:19 pm - +91 93063 58143: Bas hai kuch reason
+06/01/25, 10:35 pm - Arvind: https://www.instagram.com/reel/DEfFDWszhqo/?igsh=ZHN6eXE3aGx0YmEx
+06/01/25, 10:35 pm - Arvind: <Media omitted>
+07/01/25, 9:16 am - +91 78272 98898: <Media omitted>
+07/01/25, 9:19 am - Devanshi Sharma 🩷🩷: Hnn glt h as 659 khud hi octal nhi h
+07/01/25, 9:20 am - +91 78272 98898: hn
+07/01/25, 6:30 pm - +91 86077 86597: ki mealy to more and more to mealy conversion ayega?
+07/01/25, 6:30 pm - +91 86077 86597: Ya bs basic krna hai
+07/01/25, 7:25 pm - Arvind: https://www.instagram.com/reel/DD_sQj7zYLW/?igsh=ZXJobGVmbGt6ZGFy
+
+
+MY MOTIVATION 🔥🔥
+07/01/25, 8:41 pm - Arvind: <Media omitted>
+07/01/25, 8:54 pm - Jatin: ye Kiska answer hai ???
+07/01/25, 8:54 pm - Arvind: 😂are aise hi timepaas
+07/01/25, 8:55 pm - Jatin: abbey bc
+07/01/25, 8:55 pm - Jatin: kl ppr hai terko majak lg rha hai
+07/01/25, 8:59 pm - Arvind: Maine kuch nhi pdha and pdhne ka 🥲mann hi nahi ho raha
+07/01/25, 9:02 pm - Arvind: This message was deleted
+07/01/25, 9:02 pm - Arvind: https://www.instagram.com/reel/DEheA7BSorl/?igsh=bGNiODE5M3M2djdz
+07/01/25, 9:03 pm - +91 87008 14728: Bhai sach m ni pdha jara Mt bhjj yee
+07/01/25, 9:03 pm - +91 87008 14728: Khud bhi ni pdhra
+07/01/25, 9:03 pm - +91 87008 14728: Hume toh padhne de
+07/01/25, 9:03 pm - Arvind: 🙄 itne din me ni pdh payi ab kya pdhegi 🤭🤭
+07/01/25, 9:03 pm - +91 87008 14728: Tym aaj mila h
+07/01/25, 9:04 pm - Arvind: 😂👍👍okkk
+07/01/25, 9:04 pm - +91 87008 14728: Haa
+07/01/25, 9:04 pm - +91 87008 14728: Khud toh sara PPR kr aayega
+07/01/25, 9:04 pm - +91 87008 14728: Hum tere muh ko dekhenge beth k
+07/01/25, 9:04 pm - Arvind: 😃kassh aisa hi ho tere munh m ghee shakkar
+07/01/25, 9:04 pm - +91 87008 14728: Ghee shkr ni mere lie kal ki dua krdio
+07/01/25, 9:04 pm - +91 87008 14728: 😂😂😂😂
+07/01/25, 9:05 pm - +91 87008 14728: Ki m pass hojau
+07/01/25, 10:14 pm - Rohit Korpal: <Media omitted>
+07/01/25, 11:15 pm - +91 94162 12356: Xor gate banaya h yeh toh
+07/01/25, 11:16 pm - Arvind: aye launde pdh rha h 😆😆
+07/01/25, 11:16 pm - +91 94162 12356: Chat gpt kar le
+07/01/25, 11:16 pm - Rohit Korpal: Ara diagram nhi aa rhe nah uspa
+07/01/25, 11:16 pm - Rohit Korpal: Ki kya banana hai isma
+07/01/25, 11:16 pm - +91 94162 12356: 🫡
+07/01/25, 11:16 pm - +91 94162 12356: Bhai tu 10 class me nhi h
+07/01/25, 11:17 pm - +91 94162 12356: Banana padega
+07/01/25, 11:35 pm - Arvind: *" MAKE THEM BELIEV U ARE STUDING , THEN SURPRISE THEM BY FAILING "*
+07/01/25, 11:39 pm - Niru: <Media omitted>
+08/01/25, 12:51 am - Niru: https://youtube.com/shorts/lg1VKg9uzQ4?si=KYKluAtMKtfJxd1w
+08/01/25, 12:52 am - Niru: @919643676889 bhai tera laptop
+08/01/25, 12:52 am - Arvind: ThinkPad 🤟🔥
+08/01/25, 4:47 am - Arvind: https://www.instagram.com/reel/DEZUlSftv5n/?igsh=MWc4Y3R3Z3J1dHg4bg==
+08/01/25, 4:50 am - Arvind: https://www.instagram.com/reel/DCTiqiEPChH/?igsh=MWIxMmNiOWNhaWU1Zw==
+08/01/25, 7:13 am - Niru: <Media omitted>
+08/01/25, 7:14 am - Niru: Bhai koi print nikal ske to pls niklva ke le ana
+08/01/25, 12:35 pm - दीपक यादव: <Media omitted>
+08/01/25, 1:47 pm - Neha Sharma: <Media omitted>
+09/01/25, 10:25 am - Rohit Korpal: disk discheduling aa rhe hai kya?
+09/01/25, 10:26 am - +91 98125 09858: null
+09/01/25, 10:28 am - Rohit Korpal: syllabus ma nhi ha but ppt bheji hai maam nah
+09/01/25, 10:28 am - +91 98125 09858: Mam se puch lr
+09/01/25, 10:28 am - Rohit Korpal: kra tha msg
+09/01/25, 10:28 am - Rohit Korpal: reply nhi aaya
+09/01/25, 10:33 am - Jatin: @919812509858 😂😂😂 no child abuse bhai
+09/01/25, 10:34 am - Rohit Korpal: @918618053454 ma'am se puchio bhai
+09/01/25, 10:34 am - Rohit Korpal: Tu clg mai hi hai
+09/01/25, 10:34 am - Rohit Korpal: Puch aa ek baar
+09/01/25, 10:34 am - +91 98125 09858: Ppr hogya tera
+09/01/25, 10:34 am - Rohit Korpal: 1 baje hai
+09/01/25, 10:34 am - Rohit Korpal: .
+09/01/25, 10:34 am - Rohit Korpal: .
+09/01/25, 11:02 am - Niru: <Media omitted>
+09/01/25, 2:48 pm - Arvind: https://www.instagram.com/reel/DEkTTY9ykKA/?igsh=cTNsbzhuZ2YxdmJn
+09/01/25, 10:57 pm - Arvind: https://www.instagram.com/reel/DEmhTDUowyE/?igsh=b2l5NWV3cGhwdXh0
+09/01/25, 11:13 pm - Rohit Korpal: bhai kitni jaldi msg krdia maam nah yr
+09/01/25, 11:13 pm - Rohit Korpal: sachma
+10/01/25, 12:55 am - Arvind: https://www.instagram.com/reel/DEg7uDDT-1Q/?igsh=dmhwamF0OW80cnoy
+10/01/25, 12:55 am - Arvind: This message was deleted
+10/01/25, 12:55 am - Arvind: https://www.instagram.com/reel/DEgGqt1IxxR/?igsh=eXZwNDg0ODFldTdk
+11/01/25, 11:21 pm - Arvind: https://www.instagram.com/reel/DEmNYY-s5g2/?igsh=MWd4Nm4zOXozNGI3dg==
+11/01/25, 11:21 pm - Arvind: 😂😂
+12/01/25, 3:35 pm - +91 78272 98898: maths k question bank me kisi ne 30th question kara h?
+12/01/25, 3:44 pm - दीपक यादव: 18th Question or ye same same se hi h
+12/01/25, 3:44 pm - दीपक यादव: Koi Theory wale questions bhej do Saare
+12/01/25, 3:44 pm - दीपक यादव: 🥲
+12/01/25, 6:59 pm - +91 93063 58143: https://youtube.com/shorts/7rTamxqA0ko?si=H1gcQBhxLjzYwW6w
+12/01/25, 11:29 pm - +91 93063 58143: U guys are legit not ready for tommorow
+12/01/25, 11:30 pm - Arvind: YOU or WE ??
+12/01/25, 11:30 pm - Arvind: 😂😂
+12/01/25, 11:30 pm - +91 93063 58143: You  cuz I am at damage control
+13/01/25, 8:33 pm - Rohit Korpal: bhai r ka question bhejdo koi
+13/01/25, 8:43 pm - Neha Sharma: Very Short Answer Questions
+
+1.What is R?
+2.What is the command to get the current working directory in R?
+3.Name one built-in dataset in R.
+4.Write a command to create a vector containing numbers 1 to 5.
+5.How do you comment a line in R?
+6.What is the file extension for R scripts?
+7.How do you assign a value to a variable in R?
+8.Write the function to find the length of a vector.
+9.What does the head() function do in R?
+10.Name one library in R used for data visualization.
+
+Type 2: Short Answer Questions
+
+1.What are vectors in R? Provide an example.
+2.Differentiate between c() and seq() functions in R.
+3.Write a command to calculate the mean of the numbers 10, 20, and 30.
+4.Explain the use of the summary() function in R.
+5.Write an example of creating a simple data frame in R with two columns: Name and Age.
+
+Type 3: Descriptive Answer Questions
+
+1.What are the key features of R? Explain briefly.
+2.Describe the different types of data objects in R with examples.
+3.How do you import a CSV file into R? Provide a code example.
+4.Explain the use of the plot() function with an example.
+5.Write a code snippet to create a bar plot for the following data:
+  Categories: A, B, C
+  Values: 5, 10, 15
+
+Type 4: Long Answer Questions
+
+1.What are the main data structures in R? Explain each with examples.
+2.Describe the process of creating and using functions in R with examples.
+3.Discuss the concept of loops in R. Explain for, while loops with examples.
+4.How can R be used for statistical analysis? Provide an example where you calculate mean, median, and standard deviation of a dataset.
+5.Discuss the process of data visualization in R. Explain how to create a histogram, scatterplot, and boxplot with code examples.
+14/01/25, 8:56 pm - दीपक यादव: https://www.instagram.com/reel/DEAY-KDylde/?igsh=OHAwNmQ1amxjbDQ3
+14/01/25, 11:14 pm - Jatin: POLL:
+This who want to come prayagraj (Maha Kumbh) . Some students are ready for going from our class if you want to come with us.
+OPTION: Yes (7 votes)
+OPTION: No (2 votes)
+
+15/01/25, 6:20 pm - Neha Sharma: Jo karan sir ne question bank bheja hai wo enough nhi hai ppt bhi padh lena
+15/01/25, 6:21 pm - Neha Sharma: Maine abhi pucha hai
+15/01/25, 6:25 pm - Jatin: please pdf bhej do R ki
+15/01/25, 6:26 pm - Neha Sharma: Wo mere pass bhi nhii hai
+15/01/25, 6:41 pm - +91 88823 09014: bina padhe jana is the R(eal) challenge
+15/01/25, 6:42 pm - Arvind: Pdhein kya ye hi ni pata so pdhke jane is R(eal) challenge
+15/01/25, 6:42 pm - +91 88823 09014: r(eal)
+15/01/25, 7:04 pm - +91 93063 58143: R(eal)ly
+16/01/25, 11:18 am - +91 93063 58143: <Media omitted>
+16/01/25, 11:18 am - +91 93063 58143: <Media omitted>
+16/01/25, 11:18 am - +91 93063 58143: <Media omitted>
+16/01/25, 11:18 am - +91 93063 58143: <Media omitted>
+16/01/25, 11:18 am - +91 93063 58143: <Media omitted>
+16/01/25, 11:19 am - Arvind: https://www.instagram.com/reel/DE2TIVYPD75/?igsh=MTBrcTNycnBkc2xrcg==
+16/01/25, 11:19 am - +91 93063 58143: <Media omitted>
+16/01/25, 11:19 am - +91 93063 58143: <Media omitted>
+16/01/25, 11:19 am - +91 93063 58143: <Media omitted>
+16/01/25, 11:19 am - +91 93063 58143: <Media omitted>
+16/01/25, 12:35 pm - Rohit Korpal: koi long ans ka ques 1 ka answer bhejdo
+16/01/25, 12:36 pm - Rohit Korpal: sorry Q2 nah ki 1
+16/01/25, 2:27 pm - Jatin: bhai sab r ke group me msg kro sir ko
+16/01/25, 2:27 pm - Jatin: ki kya padna hai paper ke liye
+16/01/25, 2:28 pm - Jatin: This message was deleted
+16/01/25, 2:28 pm - Rohit Korpal: maine bhi kre hai personally koi reply nhi dia mujhe dhang ka
+16/01/25, 2:28 pm - Jatin: personal nhi group me msg kr
+17/01/25, 4:46 pm - Niru: <Media omitted>
+17/01/25, 4:47 pm - Niru: Bro shaddi ki quest puri krne par 9 mahine tak reward milega. Complete your quest asap only valid for 5 years
+17/01/25, 4:50 pm - Arvind: Aur 2500 monthly rewards bhi
+17/01/25, 6:15 pm - Niru: Bilkul. Enroll now
+17/01/25, 7:23 pm - Arvind: https://www.instagram.com/p/DEhwDPKycD_/?igsh=YWw2cmphc2lkNTk1
+17/01/25, 7:59 pm - Ritika Btech Cse: Postmaster must be cursing himself for being kind.😂 <This message was edited>
+17/01/25, 8:16 pm - +91 93063 58143: Lencho was a crybaby
+18/01/25, 4:29 pm - Niru: https://youtube.com/shorts/NxTH-l2-vNs?si=B5ZTODqWxbs4G2E4
+18/01/25, 8:04 pm - दीपक यादव: https://www.reddit.com/r/JEE/s/nZydpKEYtX
+20/01/25, 9:31 pm - Arvind: https://www.instagram.com/reel/DE_0A80zxNM/?igsh=YXNvZWFhZmQ3bzdi
+20/01/25, 9:31 pm - Arvind: Purane khiladi maidaan me utar gye hai
+20/01/25, 10:47 pm - दीपक यादव: Marne ke baad property automatically Govt. Ki ho jayegi kuchh yesa automation program kr rahi h Dadi ji
+23/01/25, 5:50 pm - Faiza: Classes 3 Feb se start hai kya ?
+23/01/25, 8:40 pm - +91 94162 12356: Haa
+23/01/25, 8:48 pm - Faiza: Ok bhai
+26/01/25, 11:46 pm - +91 93063 58143: https://youtu.be/OyDyOweu-PA?si=prFIg04JyC56rQRB
+26/01/25, 11:46 pm - +91 93063 58143: My favourite song these days
+26/01/25, 11:55 pm - +91 88823 09014: banger
+27/01/25, 3:26 pm - +91 86077 86597: Seek your voice, and vision.
+With Mannthan- The Debate & MUN Club. 🎙
+
+Why don’t debates ever happen at the beach? Because it’s hard to find a solid ground for arguments! 
+
+So are you ready to find solid grounds, make your voice heard and work behind impactful events? If so, MANNTHAN invites passionate and driven individuals to be a part of its dynamic family! ✨
+
+Why Mannthan❓📒
+
+1. Develop event management and leadership skills.  
+2. Hands-on experience in planning and organizing debates, and workshops.  
+3. Collaborate with a motivated and talented team.  
+4. Build resume & network with inspiring individuals.  
+5. Hone your public speaking and leadership skills.  
+6. Empowers others to excel in communication and leadership.  
+
+Who can apply ❓👥
+
+Students from Faculty of Engineering and Technology (FEAT) & Faculty of Agricultural Sciences (FASC) are prioritised but anyone with an explorative potential regardless of the faculty is welcome. 
+
+How to apply ❓📞
+
+• Application and Registration process involves an interview and Q&A's with the Council member(s).
+• Offline or Online mode.
+• For inquiries, contact: 
+Rishika Bhatnagar 
+Council Member of Mannthan 
+8447177138
+rishikabhatnagar07@gmail.com
+
+Mannthan awaits you! 🍀
+27/01/25, 8:07 pm - +91 93063 58143: https://www.youtube.com/shorts/PBpyCdy4pMg
+28/01/25, 8:49 pm - Devanshi Sharma 🩷🩷: Kisi k pass r programming ka final exams ka question paper h toh plz send krr do
+28/01/25, 9:23 pm - Devanshi Sharma 🩷🩷: Sir ko chaiye koi toh bhej do
+28/01/25, 9:28 pm - +91 99101 32913: <Media omitted>
+28/01/25, 9:28 pm - +91 99101 32913: <Media omitted>
+28/01/25, 10:22 pm - Devanshi Sharma 🩷🩷: Thanks
+28/01/25, 10:23 pm - +91 99101 32913: 🫡
+29/01/25, 9:56 pm - +91 93063 58143: https://youtube.com/shorts/frdcHcEGLeo?si=Vv_L9ijoNZef7E49
+30/01/25, 10:19 pm - +91 93063 58143: https://youtube.com/shorts/gxqIbKWitu0?si=6fH7rjkAjoM8KzJ3
+31/01/25, 2:30 pm - Arvind: https://www.instagram.com/reel/DFZ34GzzUuP/?igsh=YTdoNHB2a2doYTlq
+31/01/25, 4:28 pm - +91 93063 58143: <Media omitted>
+31/01/25, 4:29 pm - +91 93063 58143: 💀
+31/01/25, 4:39 pm - +91 88823 09014: let's go bhyi java
+31/01/25, 4:39 pm - +91 88823 09014: 🔥🔥🔥
+31/01/25, 4:39 pm - +91 88823 09014: @919354044806
+31/01/25, 6:19 pm - Rohit Korpal: 5th ko college hai kya??
+31/01/25, 6:24 pm - 🌜Anshuman🌛 Cr: ERP pr koi holiday nhi h 5th ko
+31/01/25, 6:32 pm - Arvind: Kis baat ki
+31/01/25, 6:32 pm - Arvind: Valentine's day to 14 ko h na
+31/01/25, 6:35 pm - Rohit Korpal: <Media omitted>
+31/01/25, 6:35 pm - Arvind: 5th ko kuch khaas h kya ??
+31/01/25, 6:35 pm - Arvind: ??
+31/01/25, 6:36 pm - Rohit Korpal: Delhi mai election hai
+31/01/25, 6:36 pm - Rohit Korpal: Bhai vote dena imp hai
+31/01/25, 6:36 pm - Arvind: 😂😂 tu aa mat aa aisi tesi kara delhi walo k liye ye msg h sgt ki tarf se
+31/01/25, 6:36 pm - Arvind: To IIT Delhi me Jana tha na wha hogi chutti SGT  ni dega
+31/01/25, 6:39 pm - Rohit Korpal: Bhai ma'am se baat hogyi
+31/01/25, 6:39 pm - Rohit Korpal: Shyd hogi
+31/01/25, 6:42 pm - Rohit Korpal pinned a message
+31/01/25, 7:49 pm - Niru: ye pin kar do
+31/01/25, 7:50 pm - Rohit Korpal: krdia
+01/02/25, 12:15 pm - Faiza: <Media omitted>
+01/02/25, 1:03 pm - Rohit Korpal: *GOOD AFTERNOON 🌞🌻*
+
+*Key Union Budget Announcements - 2025*
+
+➡️ *Transformative reforms in 6 sectors which will set trends for next 5 years:*
+-Six sectors are:
+* Power
+* Mining
+* Urban developments (covers water sector)
+* Financial sector
+* Regulatory reforms
+* Taxation
+➡️ *Dhan Dhanya Krishi Yojna*
+* Kisan Credit Card limits for farmers, fisherman etc. increased from 3 lakh to 5 lakh.
+* 6 year mission for pulses.
+* Agri plan to cover 100 districts with low productivity in phase 1.
+➡️MSMEs
+ -Focus on 5.7cr MSMEs
+* Increase loan guarantees to micro entrepreneurs.
+* Loans to startups in 27 focus sectors at 1% guarantee fees.
+* Term loans upto 20cr for export MSMEs
+* Customized credit cards for Udyam registered MSMEs
+* Fund of fund for startups, another 10,000 cr. to be setup
+➡️ Credit guarantee cover will be enhanced from 2 cr to 5cr for MSME. Startups will have credit guarantee of 10cr to 20cr. Well run MSME: 20cr.
+➡️ Micro enterprise will have 5lk limit of credit card.
+➡️ Make India global hub for toys. Development of clusters and manufacturing of toys.
+➡️ Footwear and Leather sector scheme- to generate employment to 22lk people and generate investment of 4 lakh cr. Exports over Rs 1.1 lakh cr
+➡️ National Manufacturing Mission for MSME. Support clean tech manufacturing like wind turbines, batteries etc.
+➡️ Broadband connectivity to be provided to all secondary schools.
+➡️ Digital form of Indian language book – to understand subject in their language.
+➡️ Additional infra in the 5 IITs started after 2014, to add 6500 more students.
+➡️ 10,000 additional medical seats to be added in next 5 years.
+➡️ There is going to be AI in education with outlay of 500cr.
+➡️ Govt. will set up of daycare centres for cancer in all districts in the next 3years-- to pose competition for private sector hospitals, though tertiary care (at bigger hospitals) will not have much impact.
+➡️ PPP for infrastructure. 1.5 lakh Cr interest free loans for 50 years
+➡️ Registration and ID for gig workers will be provided to make this sector more organized also insurance for them will be provided to them.
+➡️ Jal Jeevan Mission to be extended till 2028 to achieve 100% coverage with separate O&M contracts under Jan Bhagidhari
+➡️ Outlay of 1.5 lakh cr for 50 year interest free loan to states that do capex/infra.
+➡️ Urban challenge fund of 1lk cr to create redevelopment of cities, water sanitation.
+➡️ Power sector reforms - incentivise inter-state and distribution sector reforms
+➡️ Nuclear energy mission: Small modular reactors indigineous built to be used. Development of 100GW of nuclear power. 
+➡️ Nuclear Power: Liability clauses will be relaxed, small modular rectors R&D will be promoted.
+➡️ Ship Building financial assistance policy to be revamped
+➡️ Maritime development fund with INR 20,000 Cr to be setup
+➡️ UDAAN regional connectivity scheme: 120 new destinations and carry 4cr additional passengers in next 10 years
+01/02/25, 4:14 pm - +91 88823 09014: real
+01/02/25, 4:28 pm - +91 93063 58143: Ok chat gpt Explain me like I am 5 year old
+01/02/25, 5:13 pm - +91 88823 09014: the only really important info for most people is
+01/02/25, 5:13 pm - +91 88823 09014: tax is basically 0 for people of income upto 12 lakh p.a
+01/02/25, 5:13 pm - +91 88823 09014: income tax*
+01/02/25, 5:20 pm - +91 93063 58143: Uhhh I c
+01/02/25, 5:35 pm - +91 88823 09014: yuh
+02/02/25, 7:37 pm - +91 88823 09014: kal college hai
+02/02/25, 7:38 pm - +91 93063 58143: Pooch rha ya bta rha
+02/02/25, 7:39 pm - +91 88823 09014: <Media omitted>
+02/02/25, 7:39 pm - +91 93063 58143: <Media omitted>
+02/02/25, 8:10 pm - Arvind: Sukuna's finger 🤣🤣
+02/02/25, 8:49 pm - +91 88823 09014: yes
+03/02/25, 9:10 am - Rohit Korpal: <Media omitted>
+03/02/25, 1:49 pm - Devanshi Sharma 🩷🩷: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/LhQBI0Rk6uAFXiNGukpGbr
+04/02/25, 12:38 pm - Arvind: Kal chutti h kya ??
+04/02/25, 1:06 pm - +91 93063 58143: Niom
+04/02/25, 1:07 pm - Arvind: Answer me, not urself 🙄
+04/02/25, 1:45 pm - Niru: <Media omitted>
+04/02/25, 3:02 pm - +91 93063 58143: <Media omitted>
+04/02/25, 5:49 pm - Arvind: Batao bhai
+04/02/25, 5:49 pm - Arvind: Kal college hai ya nahi ??
+04/02/25, 5:50 pm - दीपक यादव: Ma'am ko msg Krle na
+04/02/25, 5:51 pm - Arvind: Are ye itne college gye inme se kisi ko ni pata ?
+04/02/25, 5:51 pm - दीपक यादव: 🙃
+04/02/25, 5:53 pm - Ritika Btech Cse: Hamari class mein se jo bhi delhi se aata h vo apna naam roll no. Mujhe bhejdo jldi
+04/02/25, 5:53 pm - Ritika Btech Cse: Attendance lgvani h to bhejdo fatafat
+04/02/25, 5:53 pm - +91 98718 08680: Ok
+04/02/25, 5:53 pm - Ritika Btech Cse: Aur apne friends ko delhi se h unka bhi
+04/02/25, 5:54 pm - दीपक यादव: Ruk jao maine Ma'am ko Msg kiya h
+04/02/25, 5:55 pm - Ritika Btech Cse: Are ma'am ne hi kaha h mujhe
+04/02/25, 5:55 pm - Ritika Btech Cse: Charvi ma'am ka call aaya tha
+04/02/25, 6:01 pm - 🌜Anshuman🌛 Cr: SEC and AECC ke koi faculty nhi h Time table m to classes to nhi hongi,
+ Charvi ma'am Computer hardware ki class lengi
+04/02/25, 6:02 pm - Devanshi Sharma 🩷🩷: Kl total kitni classes h jo lgengi?? 
+@919869740402
+04/02/25, 6:02 pm - Rohit Korpal: Bhejdia
+04/02/25, 6:02 pm - Rohit Korpal: Dekhle
+04/02/25, 6:03 pm - 🌜Anshuman🌛 Cr: group 1 to first half m bas Charvi ma'am ki class lega
+04/02/25, 6:03 pm - 🌜Anshuman🌛 Cr: second half m bas Algorithm lab ka sure h ki wo lagegi
+04/02/25, 6:04 pm - 🌜Anshuman🌛 Cr: OOP lab kal hogi?
+04/02/25, 6:04 pm - 🌜Anshuman🌛 Cr: agar hogi to total 3 subjects, nhi to 2
+04/02/25, 6:04 pm - Devanshi Sharma 🩷🩷: Pta nhi yrr
+04/02/25, 6:05 pm - Ritika Btech Cse: Are kl to vo hackathon bhi h kuch teachers ki duty wahan lagegi I think
+04/02/25, 6:06 pm - दीपक यादव: Perso h Hackathon toh
+04/02/25, 6:06 pm - Ritika Btech Cse: Are 3 din ki h I think
+04/02/25, 6:06 pm - Arvind: Hnn prso se h
+04/02/25, 6:06 pm - Arvind: 6 7 8
+04/02/25, 6:06 pm - Ritika Btech Cse: Acha ok
+04/02/25, 6:07 pm - Ritika Btech Cse: G1 vaale devanshi ko bhejdo naam, 8 bje tk bhej dena hume aage dene h
+04/02/25, 6:59 pm - +91 93063 58143: For a day can we get a one day दिल्ली citizenship pass
+04/02/25, 7:01 pm - दीपक यादव: Do u have password if yes please visit Delhi Municipality office for it
+04/02/25, 7:01 pm - +91 93063 58143: Does password start with b
+04/02/25, 7:02 pm - दीपक यादव: 🤣🤣
+04/02/25, 7:03 pm - +91 93063 58143: Shouldn't  place having दिल्ली मेट्रो be a part of दिल्ली itself <This message was edited>
+04/02/25, 7:04 pm - दीपक यादव: R you talking about Noida Gaziabad also ??
+04/02/25, 7:04 pm - +91 93063 58143: Depends
+04/02/25, 8:00 pm - 🌜Anshuman🌛 Cr: POLL:
+Taking classes tomorrow?
+OPTION: Yes (6 votes)
+OPTION: No (13 votes)
+
+04/02/25, 8:01 pm - +91 93063 58143: bro agar java wali mam delhite hui
+04/02/25, 8:02 pm - +91 93063 58143: seedhe 4 ghanta ki lanka lag jaegi
+04/02/25, 8:03 pm - Rohit Korpal: maam ko msg krlo
+04/02/25, 8:03 pm - Rohit Korpal: 😂😂
+04/02/25, 8:03 pm - +91 93063 58143: aap hi krein janaab
+04/02/25, 8:04 pm - +91 93063 58143: mere toh rishte kuch khaas ache h nahi ifykyk
+04/02/25, 8:35 pm - Devanshi Sharma 🩷🩷: Yrr final bta do na 2 class k liye kya hi aayenge na
+04/02/25, 8:36 pm - +91 93063 58143: ek baar java mam se pooch le ki mam ayegi ya nahi
+04/02/25, 8:36 pm - +91 93063 58143: if she doent come
+04/02/25, 8:36 pm - Devanshi Sharma 🩷🩷: Anshuman ne pucha h shyd
+04/02/25, 8:36 pm - +91 93063 58143: that i dont have any incentive come too
+04/02/25, 8:37 pm - +91 93063 58143: @919869740402 poocha kya tune?
+04/02/25, 8:41 pm - +91 93063 58143: yo devanshi can you do it @anshuman is out of phone recharge
+04/02/25, 8:42 pm - +91 93063 58143: @919350252541
+04/02/25, 8:42 pm - Devanshi Sharma 🩷🩷: Mssg toh kiya h mam ko
+04/02/25, 8:43 pm - +91 93063 58143: could you with utmost heartfelt effort try her calling pls
+04/02/25, 8:46 pm - Devanshi Sharma 🩷🩷: No bro it's not the correct time to call
+04/02/25, 8:52 pm - Devanshi Sharma 🩷🩷: Simmi mam aayengi kl
+04/02/25, 8:54 pm - Devanshi Sharma 🩷🩷: Ab final btaooo
+04/02/25, 8:54 pm - +91 93063 58143: i am coming then
+04/02/25, 8:54 pm - Arvind: it's still no
+04/02/25, 8:55 pm - +91 93063 58143: Understandable
+04/02/25, 9:01 pm - +91 86077 86597: itna khauf kiss baat ka hai?
+04/02/25, 9:01 pm - +91 93063 58143: khauf nahi h tbh
+04/02/25, 9:02 pm - +91 93063 58143: i just love my marks uncut
+04/02/25, 9:02 pm - +91 93063 58143: internal ke
+04/02/25, 9:02 pm - +91 86077 86597: acha
+04/02/25, 9:03 pm - +91 86077 86597: toh ek din off krne se tere ko 0 milega internals mein
+04/02/25, 9:03 pm - +91 86077 86597: okay cool
+04/02/25, 9:03 pm - +91 86077 86597: good
+04/02/25, 9:08 pm - +91 93063 58143: well trade secrets are trade secrets
+04/02/25, 9:11 pm - +91 86077 86597: Okay bro
+04/02/25, 9:11 pm - +91 86077 86597: Apne pass hi rkho phir unn secrets ko
+05/02/25, 8:50 am - +91 93063 58143: Reach 409 asal
+05/02/25, 8:50 am - +91 93063 58143: P
+05/02/25, 9:57 am - +91 86077 86597: Aaj konsi konsi classes lagegi?
+05/02/25, 10:50 am - Ritika Btech Cse: https://www.youtube.com/watch?v=xXrPA_ONxK4
+05/02/25, 10:51 am - Ritika Btech Cse: For java kit and eclipse installation
+05/02/25, 2:39 pm - Devanshi Sharma 🩷🩷: Group 1 317 lab m aa jao
+05/02/25, 2:40 pm - दीपक यादव: Attendance lgwa dena
+05/02/25, 2:40 pm - Devanshi Sharma 🩷🩷: Lab m aaja
+05/02/25, 2:41 pm - दीपक यादव: null
+05/02/25, 2:58 pm - Devanshi Sharma 🩷🩷: Charvi mam ko bol
+05/02/25, 3:48 pm - Ritika Btech Cse: https://classroom.google.com/c/NzQ4ODc4NzMxMTU1?cjc=2x3oovk
+05/02/25, 3:48 pm - Ritika Btech Cse: For java notes and all content
+05/02/25, 4:54 pm - Ritika Btech Cse: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/HALZMVFfRCcG7ecNRtU0x1
+05/02/25, 4:57 pm - Devanshi Sharma 🩷🩷: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/HYi4IQ1WG4vHHChVAWQB7K
+05/02/25, 8:02 pm - दीपक यादव: https://www.instagram.com/reel/DFnji09Mqv5/?igsh=MWhrcjhnbHg3cHdwaQ==
+05/02/25, 8:31 pm - 🌜Anshuman🌛 Cr: <Media omitted>
+05/02/25, 8:33 pm - दीपक यादव: Ooye Bhai fir se nhi yaar
+05/02/25, 8:34 pm - दीपक यादव: Mai gali wali de dunga nhi toh
+05/02/25, 8:34 pm - 🌜Anshuman🌛 Cr: Sabka fav subject waapas
+05/02/25, 8:35 pm - Devanshi Sharma 🩷🩷: yeh change hoga shyd glti se dal diya h
+05/02/25, 8:36 pm - दीपक यादव: Ye glti se bhi nhi aana chahiye humare pass 🙃
+05/02/25, 8:36 pm - Rohit Korpal: <Media omitted>
+05/02/25, 8:36 pm - 🌜Anshuman🌛 Cr: nhi, doosre sections ko bhi yhi diya h
+05/02/25, 8:36 pm - Devanshi Sharma 🩷🩷: kosis toh puri yhi rhegi
+05/02/25, 8:36 pm - Rohit Korpal: <Media omitted>
+05/02/25, 8:37 pm - Devanshi Sharma 🩷🩷: hm padh chuke h yeh toh meri baat hui h mam se toh who bol rhi h ki kl ek baar baat krte h
+05/02/25, 8:38 pm - 🌜Anshuman🌛 Cr: Then sabko bolna padega nhi to 3D printing hi padni hogi full semester
+05/02/25, 8:38 pm - Rohit Korpal: <Media omitted>
+05/02/25, 8:38 pm - Devanshi Sharma 🩷🩷: nhi nhi
+05/02/25, 8:38 pm - Devanshi Sharma 🩷🩷: kl baat krte h mam se
+05/02/25, 8:38 pm - Rohit Korpal: <Media omitted>
+05/02/25, 8:40 pm - 🌜Anshuman🌛 Cr: <Media omitted>
+05/02/25, 8:40 pm - 🌜Anshuman🌛 Cr: <Media omitted>
+05/02/25, 8:40 pm - Rohit Korpal: <Media omitted>
+05/02/25, 8:40 pm - Rohit Korpal: <Media omitted>
+05/02/25, 8:42 pm - Devanshi Sharma 🩷🩷: Ruk ja bhai itni nhi abhi time h
+06/02/25, 8:39 am - Neha Sharma: Hackathon m kon kon hai??
+06/02/25, 8:50 am - +91 72069 20277: G2 come in lab 13
+06/02/25, 9:32 am - +91 96253 72007: Ayush Parashar
+Rahul Bajaj
+Aakash Bisht
+Sneha Boora
+06/02/25, 9:33 am - Janvi Bhardwaj: Janvi 
+Arjun
+Rohit
+Jai
+06/02/25, 9:33 am - Janvi Bhardwaj: Deepak
+Arvind
+Aneek
+Chetan
+Pallavi <This message was edited>
+06/02/25, 9:56 am - +91 93153 52473: Bhar aja
+06/02/25, 9:56 am - +91 93153 52473: Harish bhai
+06/02/25, 11:56 am - Niru: Symphonious ne koi stall laga rha hai?
+06/02/25, 2:12 pm - Devanshi Sharma 🩷🩷: Group 1 ki last wali lab nhi ho rhi h
+06/02/25, 2:12 pm - Devanshi Sharma 🩷🩷: toh koi lab me na jana
+06/02/25, 3:41 pm - Neha Sharma: This message was deleted
+06/02/25, 3:43 pm - Neha Sharma: POLL:
+Kal kon kon aa rha haii???
+OPTION: Yes (0 votes)
+OPTION: No (18 votes)
+
+06/02/25, 3:44 pm - Vishal: Kyu nahi aana he kya @919306592128
+06/02/25, 3:44 pm - Neha Sharma: Ha
+06/02/25, 3:44 pm - Neha Sharma: Nhii aana
+06/02/25, 3:44 pm - Vishal: Okay
+06/02/25, 3:46 pm - Neha Sharma: Almost bacche hackathon m hai aaj bhi 5,6 bacche the dono grp ke mila kar <This message was edited>
+06/02/25, 4:44 pm - Neha Sharma: @919869740402 what about u??
+06/02/25, 4:57 pm - 🌜Anshuman🌛 Cr: Not coming
+06/02/25, 5:07 pm - Neha Sharma: Okk
+06/02/25, 5:08 pm - 🌜Anshuman🌛 Cr: Saturday ko classes hongi?
+06/02/25, 5:08 pm - Neha Sharma: Nahii
+06/02/25, 5:09 pm - Neha Sharma: 2 lab hi hai or us din symphonious bhi hai or hackathon bhii
+07/02/25, 9:01 am - Vishal: Group 1 
+Report to 415 immediately
+07/02/25, 9:01 am - Vishal: Guyss what to do
+07/02/25, 9:03 am - Ritika Btech Cse: Guys mne ma'am ko bol diya ki bache hackathon aur symphonius mein busy hain
+07/02/25, 9:29 pm - +91 72069 20277: Kal bhi nhi ana na?
+07/02/25, 9:54 pm - Ritika Btech Cse: Nhi bro
+09/02/25, 9:58 pm - Ritika Btech Cse: https://docs.google.com/forms/d/1u-BKbWGZjpMlvq_fzaJo2tMfiMfY8mbNsfkrUd6cH-U/preview?edit_requested=true
+09/02/25, 9:58 pm - Ritika Btech Cse: <Media omitted>
+09/02/25, 9:58 pm - Ritika Btech Cse: Jo bhi participate kre vo please mujhe ya charvi ma'am ko inform kr dena
+09/02/25, 11:24 pm - दीपक यादव: 4th Sem ka Syllabus mila h kya ?
+10/02/25, 8:14 am - +91 90705 45557: Time table bhejdou koi ajka
+10/02/25, 8:24 am - +91 88823 09014: <Media omitted>
+10/02/25, 8:43 am - Ritika Btech Cse pinned a message
+10/02/25, 8:48 am - दीपक यादव: 3D printing literally!??
+10/02/25, 12:07 pm - Pallavi: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/L5LrZjRs2NhGLqtE4b0gbT
+10/02/25, 12:07 pm - Pallavi: Grp 2 wale join kr lo
+10/02/25, 8:45 pm - +91 93063 58143: POLL:
+Yo grp 2 u guys are coming or wot
+OPTION: Cming (4 votes)
+OPTION: No (10 votes)
+
+10/02/25, 8:50 pm - +91 93063 58143: Ahh reminder suhail sir is prolly on leave tmrw
+10/02/25, 8:50 pm - +91 93063 58143: So tmrw class only shabda mam ifykwim <This message was edited>
+10/02/25, 9:11 pm - Ritika Btech Cse: He is
+10/02/25, 9:11 pm - Ritika Btech Cse: And g2 ki sirf shabda ma'am ki class h
+10/02/25, 9:12 pm - +91 93063 58143: Facts
+10/02/25, 9:54 pm - +91 93063 58143: https://youtu.be/JgzUKQgQ39Q?si=GH6KNqjt9YXTj-eA
+11/02/25, 8:06 am - Devanshi Sharma 🩷🩷: Group 1 ka koi gya h kya cllg classes lene??
+11/02/25, 8:07 am - +91 93153 52473: Yes ishan
+11/02/25, 8:17 am - Janvi Bhardwaj: Abbey aaj class nhi le rhe kya group 1
+11/02/25, 8:17 am - Devanshi Sharma 🩷🩷: Nhi m bhi nhi aai bhai
+11/02/25, 8:19 am - Niru: Haa
+11/02/25, 8:19 am - Niru: Me to class me betha hu
+11/02/25, 8:20 am - Devanshi Sharma 🩷🩷: 😒😒
+11/02/25, 9:17 am - Vishal: @918810214283 bro attendance lgva diyo
+11/02/25, 9:17 am - Vishal: Me clg valo ke side se kahe bhar Jaa rha hu
+11/02/25, 6:07 pm - दीपक यादव: Kl College Off h !?
+11/02/25, 6:09 pm - +91 98718 08680: Kyu
+11/02/25, 10:16 pm - दीपक यादव: Ravi Das Jayanti H kl Delhi...
+11/02/25, 10:16 pm - दीपक यादव: Mein toh Holiday h kl
+11/02/25, 10:25 pm - Octopus 🐙🦑: Ha SRM mai tak holiday hai
+12/02/25, 8:53 am - Ritika Btech Cse: G2 ki lab nhi h koi faculty alot nhi hui ha bhi
+12/02/25, 8:54 am - Ritika Btech Cse: Pab meint jaana vrna faltu mein baithna padega substitute teacher ke saath
+12/02/25, 8:54 am - Ritika Btech Cse: Charvi ma'am ne kaha h ki NF mtlb no faculty
+12/02/25, 9:32 am - Devanshi Sharma 🩷🩷: <Media omitted>
+12/02/25, 3:24 pm - Jatin: Any student who is willing to participate in the FEAT cricket team please give the names
+12/02/25, 4:33 pm - +91 88823 09014: <Media omitted>
+12/02/25, 6:02 pm - +91 93063 58143: This message was deleted
+12/02/25, 8:37 pm - Arvind: https://www.instagram.com/reel/DF5CetdSJW6/?igsh=MTlwOXd6bmx4c3BiNQ==
+13/02/25, 8:59 am - Devanshi Sharma 🩷🩷: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/J3DWkA6f6Ht3MCCjyFUGgY
+
+
+Group 1 wale join krr lo <This message was edited>
+13/02/25, 10:26 am - दीपक यादव: DAA ki class mein koi Mt Jana h
+13/02/25, 10:39 am - Devanshi Sharma 🩷🩷: Class ho rhi h
+13/02/25, 10:40 am - दीपक यादव: Kon gya h class mein ??
+13/02/25, 10:57 am - Devanshi Sharma 🩷🩷: Bhaut Sare h
+13/02/25, 12:58 pm - Octopus 🐙🦑: Lunch ka baad class leni hai ke nahi ??
+13/02/25, 1:20 pm - Vishal: G1 daa ke class mat lo
+13/02/25, 1:20 pm - Vishal: Kisi ko issue he to abhi bta do
+13/02/25, 1:21 pm - Octopus 🐙🦑: Bhai nahi leni class bss
+13/02/25, 1:22 pm - Octopus 🐙🦑: Or charvi mam ka bata de who class hogi ke nahi
+13/02/25, 1:22 pm - Octopus 🐙🦑: ?? <This message was edited>
+13/02/25, 1:34 pm - Devanshi Sharma 🩷🩷: Nhi
+13/02/25, 2:40 pm - Devanshi Sharma 🩷🩷: DAA ki lab nhi h
+13/02/25, 4:47 pm - +91 93063 58143: Just realised dbms wali mam meri bus m aati h💀
+14/02/25, 3:30 pm - Jatin: https://www.instagram.com/reel/DAGluvDSAsk/?igsh=N2Joczdvc2F1b3lk
+17/02/25, 8:33 am - Janvi Bhardwaj: Understanding the Difference Between the Two Trees
+
+The stark contrast between the two trees in the image can be explained by several environmental and biological factors. The lush tree, full of leaves and fruit, thrives due to optimal conditions, while the barren tree struggles due to poor growing factors.
+
+One major reason for this difference is soil quality and nutrient availability. Apple trees require nitrogen (N) for leaf growth, phosphorus (P) for strong roots, and potassium (K) for fruit development. If the soil under the barren tree lacks these nutrients, it won’t grow properly. Additionally, water availability plays a crucial role—while the healthy tree might be receiving adequate moisture, the barren tree could be suffering from drought stress, poor drainage, or root damage that prevents proper water absorption.
+
+Sunlight exposure is another factor. Apple trees need at least 6–8 hours of sunlight per day for effective photosynthesis. If the barren tree is in a shaded area, it won’t produce enough energy to support leaf and fruit growth. Poor pruning and maintenance can also lead to reduced fruit production. If a tree is pruned too aggressively or improperly, it may lose the ability to bear fruit.
+
+Additionally, pest infestations and diseases can severely affect a tree’s health. Apple scab, powdery mildew, aphids, or borers can weaken a tree, reducing its ability to produce leaves and fruit. The barren tree may be infected, whereas the healthy tree might have better resistance or proper care.
+
+Finally, genetic differences and grafting issues could be at play. If the barren tree is from a weaker genetic strain or has a failed graft, it might not be able to grow properly.
+
+In conclusion, the difference between the two trees is likely caused by a combination of soil conditions, water availability, sunlight, pruning, pest resistance, and genetic factors. Proper care and maintenance are essential to ensure tree health, and neglecting these factors can lead to a decline in growth and fruit production.
+17/02/25, 8:38 am - +91 93153 52473: Class start hogyi
+17/02/25, 8:47 am - +91 93063 58143: Here’s the information presented in a tabular format for easier understanding:
+
+This format clearly contrasts the conditions that lead to the health differences between the two trees.
+17/02/25, 8:48 am - +91 93063 58143: https://chatgpt.com/share/67b2aa49-5670-8002-a968-583aa0b5115d
+17/02/25, 8:52 am - Janvi Bhardwaj: You deleted this message
+17/02/25, 9:12 am - दीपक यादव: <Media omitted>
+17/02/25, 11:17 am - +91 91280 90281: https://www.naukri.com/code360/problems/quick-sort_983625
+17/02/25, 11:17 am - +91 91280 90281: #include <bits/stdc++.h> 
+int partition(vector<int> &arr, int low, int high){
+    int pivot = arr[low];
+    int i = low;
+    int j = high;
+    while(i < j){
+         while(arr[i] <= pivot && i <= high - 1){
+             i++;
+
+         }
+         while(arr[j] > pivot && j >= low + 1){
+             j--;
+         }
+         if(i<j) swap(arr[i], arr[j]);
+
+    }
+    swap(arr[low], arr[j]);
+    return j;
+}
+void qs(vector<int> &arr, int low, int high){
+    if(low<high){
+        int pIndex = partition(arr, low, high);
+        qs(arr, low, pIndex - 1);
+        qs(arr, pIndex + 1, high);
+    }
+}
+vector<int> quickSort(vector<int> arr)
+{
+    qs(arr,0,arr.size()-1);
+    return arr;
+}
+17/02/25, 2:24 pm - Riya Sharma: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/CAKqrcpKNO94MW8zv8N58p
+17/02/25, 8:08 pm - +91 93063 58143: POLL:
+Grp 2.
+OPTION: Clg tmrw (8 votes)
+OPTION: No clg tmrw (5 votes)
+
+17/02/25, 8:09 pm - +91 72069 20277: Bhai Aisa kyu kr rhe ho
+17/02/25, 8:11 pm - +91 93153 52473: O bhai
+17/02/25, 8:11 pm - +91 93153 52473: Sab aega roj ka ha tumhra no clas no class
+17/02/25, 8:12 pm - +91 93153 52473: Charvi mam na sab ka ghar phone kar fia
+17/02/25, 8:12 pm - +91 93153 52473: Dia
+17/02/25, 8:12 pm - +91 93063 58143: Brthr poocha h <This message was edited>
+17/02/25, 8:12 pm - Rohit Korpal: aaj kaun clg gaya tha guys
+17/02/25, 8:12 pm - Rohit Korpal: koi batado aaj kya kya hua tha
+17/02/25, 8:12 pm - +91 93153 52473: No asking
+17/02/25, 8:13 pm - +91 93063 58143: Class le toh notes bhej dio
+18/02/25, 9:16 am - Octopus 🐙🦑: <Media omitted>
+18/02/25, 9:18 am - दीपक यादव: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/JhWHLRXugvIJVkv1sDcIA3
+18/02/25, 9:18 am - दीपक यादव: Group 1 Join
+18/02/25, 10:51 am - +91 93063 58143: https://chat.whatsapp.com/I2Jdj5jTKAr6DxKuXpwTxp
+18/02/25, 10:51 am - +91 93063 58143: G2 people join data visualisation group
+18/02/25, 10:53 am - +91 93063 58143: <Media omitted>
+18/02/25, 10:53 am - +91 93063 58143: <Media omitted>
+18/02/25, 11:34 am - +91 85888 17550: This message was deleted
+18/02/25, 12:27 pm - Niru: https://classroom.google.com/c/NzQ4ODc4NzMxMTU1?cjc=2x3oovk
+18/02/25, 12:34 pm - Niru: <Media omitted>
+18/02/25, 1:32 pm - +91 88823 09014: this picture is so tuff
+18/02/25, 1:33 pm - +91 93063 58143: Ong
+18/02/25, 1:34 pm - +91 93063 58143: <Media omitted>
+18/02/25, 2:03 pm - +91 96253 72007: Sql hai?
+18/02/25, 2:25 pm - Niru: OOPs ke first 5 questions
+18/02/25, 3:11 pm - Niru: https://cdn.botpress.cloud/webchat/v2.3/shareable.html?configUrl=https://files.bpcontent.cloud/2025/02/15/13/20250215132922-FED6CD69.json
+18/02/25, 3:11 pm - Niru: ye chatbot bnaya hai
+18/02/25, 3:11 pm - Niru: pls test krke
+18/02/25, 3:11 pm - Niru: kamiya bta dena
+18/02/25, 4:01 pm - +91 88823 09014: badhiya bot
+18/02/25, 4:02 pm - +91 88823 09014: but it stole my data
+18/02/25, 4:02 pm - +91 88823 09014: 10/10
+18/02/25, 4:03 pm - दीपक यादव: 10k debited from my account wtf 😤
+18/02/25, 4:04 pm - दीपक यादव: @918810214283 kya bot h ye
+18/02/25, 4:04 pm - +91 93063 58143: Bot cyberbullied me
+18/02/25, 4:04 pm - +91 93063 58143: Filled a complaint
+18/02/25, 4:44 pm - Ritika Btech Cse: <Media omitted>
+18/02/25, 4:44 pm - Ritika Btech Cse pinned a message
+18/02/25, 5:45 pm - Niru: Bhai review manga hai. Vo tk bta do kaisa hai <This message was edited>
+18/02/25, 5:45 pm - Niru: Kamiya puch rha hu. Isme bohot changes krne hai
+18/02/25, 5:45 pm - Niru: Chahe personal pe bta do
+18/02/25, 5:46 pm - Niru: Par pls ek bar test kar lena
+18/02/25, 6:08 pm - +91 88823 09014: tried it
+18/02/25, 6:08 pm - +91 88823 09014: its cool its nice
+18/02/25, 6:09 pm - +91 88823 09014: nothing really to point out ki kuch kamiya bolu
+18/02/25, 6:09 pm - +91 88823 09014: ig its kinda slow
+18/02/25, 6:09 pm - +91 88823 09014: but that could be my slow internet as well
+18/02/25, 6:51 pm - 🌜Anshuman🌛 Cr: 3D Printing changed 🥳
+18/02/25, 6:55 pm - Arvind: Give a little introduction of bot on home screen or something like welcoming message
+18/02/25, 7:33 pm - +91 88823 09014: yeah that makes sense
+18/02/25, 7:34 pm - +91 88823 09014: some quality of life changes are in order
+19/02/25, 10:54 am - Devanshi Sharma 🩷🩷: @919350422477 kha ho bhai??
+19/02/25, 10:54 am - Devanshi Sharma 🩷🩷: Mam bula rhi h
+19/02/25, 1:27 pm - Octopus 🐙🦑: Koi bhi class mai mat bathana
+20/02/25, 8:38 am - Devanshi Sharma 🩷🩷: Yeh btaoo ki environmental science ki class loge na
+20/02/25, 8:38 am - Devanshi Sharma 🩷🩷: Jldi btao sb
+20/02/25, 8:38 am - +91 93153 52473: This message was deleted
+20/02/25, 8:49 am - Devanshi Sharma 🩷🩷: Okk
+20/02/25, 9:16 am - +91 93153 52473: Nahi lenge hm class
+20/02/25, 9:16 am - +91 93153 52473: Bunk karna ho bta de
+20/02/25, 10:02 am - Devanshi Sharma 🩷🩷: Nhi ab toh hogi class maine sir ko  bol diya h
+20/02/25, 10:15 am - +91 99589 21087: Boll do Abhi to waqt hai ho jaye cancel to
+20/02/25, 10:15 am - +91 93153 52473: Yes yes
+20/02/25, 10:16 am - +91 86077 86597: Hori hai toh krva de koi dikkat nhi hai
+20/02/25, 10:17 am - +91 98718 08680: Cancel kra do class
+20/02/25, 10:18 am - Devanshi Sharma 🩷🩷: Ab nhi hogi
+20/02/25, 10:18 am - Devanshi Sharma 🩷🩷: Sir aa chuke h
+20/02/25, 1:10 pm - Neha Sharma: Charvi mam class nhi lengiii
+20/02/25, 1:11 pm - Neha Sharma: Adjustment lagi hui hai
+20/02/25, 1:11 pm - Neha Sharma: So koi class mein mat jana
+20/02/25, 1:12 pm - Neha Sharma: Sandeep singh sir ki adjustment lagi hui hai
+20/02/25, 1:12 pm - Neha Sharma: Mam ne attendance mangi hai or wo bhj denge
+20/02/25, 1:13 pm - +91 96256 37733: Mer bhi bhejdena
+20/02/25, 1:13 pm - +91 96256 37733: 041
+20/02/25, 1:13 pm - Neha Sharma: Aree attendance mat bhejo
+20/02/25, 1:13 pm - Neha Sharma: Hum apne aap bhj denge
+20/02/25, 1:13 pm - +91 85888 17550: Attendance...??
+20/02/25, 1:13 pm - +91 85888 17550: Okk
+20/02/25, 1:14 pm - +91 85888 17550: Okk
+20/02/25, 1:14 pm - Neha Sharma: Hnn
+20/02/25, 1:32 pm - +91 99589 21087: Lab leni hai kya last wali 
+GROUP 1
+20/02/25, 1:32 pm - +91 98718 08680: Nhi
+20/02/25, 1:32 pm - +91 81308 32289: No
+20/02/25, 1:33 pm - +91 99589 21087: Koi nhi ja rha naa ??
+20/02/25, 1:33 pm - +91 81308 32289: Bhai koisa jata hoo toh phela bata doo
+20/02/25, 1:34 pm - Riya Sharma: No
+20/02/25, 1:49 pm - Devanshi Sharma 🩷🩷: Hnn
+20/02/25, 1:49 pm - Devanshi Sharma 🩷🩷: Leni h bhai roj roj nhi bolungi m
+20/02/25, 1:50 pm - Neha Sharma: Hnn le rhii hu m bhi
+20/02/25, 3:10 pm - Ritika Btech Cse: G2 lab mein Asthana sir aaye hain, jisko aana h aa jao
+20/02/25, 3:24 pm - Ritika Btech Cse: import java.util.Random;
+import java.util.Scanner;
+
+public class GamingZone {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Welcome to the Gaming Zone!");
+        System.out.println("Let's play a Number Guessing Game.");
+        
+        // Generate a random number between 1 and 100
+        Random rand = new Random();
+        int numberToGuess = rand.nextInt(100) + 1;
+        int userGuess = 0;
+        int attempts = 0;
+
+        // Game loop
+        while (userGuess != numberToGuess) {
+            System.out.print("Enter your guess (1-100): ");
+            userGuess = scanner.nextInt();
+            attempts++;
+
+            if (userGuess < numberToGuess) {
+                System.out.println("Too low! Try again.");
+            } else if (userGuess > numberToGuess) {
+                System.out.println("Too high! Try again.");
+            } else {
+                System.out.println("Congratulations! You guessed the number in " + attempts + " attempts.");
+            }
+        }
+
+        // Ask if they want to play again
+        System.out.print("Would you like to play again? (yes/no): ");
+        String playAgain = scanner.next();
+        
+        if (playAgain.equalsIgnoreCase("yes")) {
+            main(args); // Restart the game
+        } else {
+            System.out.println("Thanks for playing! Goodbye!");
+        }
+
+        scanner.close();
+    }
+}
+20/02/25, 3:38 pm - +91 88823 09014: crazy gameplay
+20/02/25, 9:18 pm - 🌜Anshuman🌛 Cr: POLL:
+Kal G1 m se kon kon aa rha h college?
+OPTION: Yes (7 votes)
+OPTION: No (1 vote)
+OPTION: Yes, not taking class (6 votes)
+
+20/02/25, 9:26 pm - Jatin: Kl ka time table konsa chlega
+21/02/25, 9:16 am - Arvind: Aaj to visit h kaha ki h visit?
+21/02/25, 9:16 am - +91 87008 14728: Hp
+21/02/25, 9:18 am - Ritika Btech Cse: Pkka
+21/02/25, 1:39 pm - Ritika Btech Cse: Guys last lab mein koi mt jaana, mene sabki attendance lgwa di h industrial trip ke naam pe
+21/02/25, 1:39 pm - +91 98718 08680: Ok
+21/02/25, 1:39 pm - +91 99101 32913: sbki?? jo collage m h unki??
+21/02/25, 1:40 pm - +91 98718 08680: Bhai
+21/02/25, 1:40 pm - +91 98718 08680: Sab ki
+21/02/25, 1:40 pm - Ritika Btech Cse: G2 ki
+21/02/25, 1:43 pm - +91 99101 32913: g1 walo ka kya ?
+21/02/25, 5:36 pm - +91 89206 09086: POLL:
+Kal class loge
+OPTION: Yes (3 votes)
+OPTION: No (20 votes)
+
+21/02/25, 6:02 pm - Ritika Btech Cse: @919128090281 kl class lega tu👊
+21/02/25, 6:02 pm - +91 93153 52473: No
+21/02/25, 6:02 pm - +91 91280 90281: Yes
+21/02/25, 6:03 pm - Ritika Btech Cse: Ni leni class sohail sir ni aare aur Asthana ki lab h bhai
+21/02/25, 6:03 pm - +91 93063 58143: Aneek bro pls mat le <This message was edited>
+21/02/25, 6:03 pm - +91 72069 20277: Aneek dabna nhi h
+21/02/25, 6:03 pm - Arvind: Aneek ka lol h
+21/02/25, 6:03 pm - Ritika Btech Cse: Tu mt bol teri mne attendance lagwai h free ki aaj
+21/02/25, 6:03 pm - +91 72069 20277: 🙏🙏
+21/02/25, 6:03 pm - +91 72069 20277: Ok
+21/02/25, 6:03 pm - Ritika Btech Cse: Aur aneek ki bhi lagwai thi😒
+21/02/25, 6:03 pm - +91 72069 20277: Aneek bhai rhne de
+21/02/25, 6:04 pm - +91 91280 90281: Koi na ma jaunga ma class check karna <This message was edited>
+21/02/25, 6:04 pm - Ritika Btech Cse: Check krne,terpe bharosa ni h kisi ko. Sidhanshu se puchle beshak <This message was edited>
+21/02/25, 6:04 pm - Rohit Korpal: <Media omitted>
+21/02/25, 6:04 pm - Rohit Korpal: ...
+21/02/25, 6:04 pm - +91 93063 58143: Chup
+21/02/25, 6:05 pm - +91 91280 90281: 🤣
+21/02/25, 6:05 pm - +91 72069 20277: Haa bharosa ato bilkul nhi h aneek p
+21/02/25, 6:05 pm - Rohit Korpal: <Media omitted>
+21/02/25, 6:05 pm - +91 88823 09014: yeh kaisi baat kar rha
+yeh humare sanskaar nhi hai isse jail mai daalo
+21/02/25, 6:05 pm - +91 93063 58143: 😭😭😭
+21/02/25, 6:05 pm - Rohit Korpal: <Media omitted>
+21/02/25, 6:06 pm - Ritika Btech Cse: @919128090281 dekh liya ab ghar pe saaf safai kara mmyy ke saath, ni aana
+21/02/25, 6:06 pm - +91 96253 72007: Vietnam flashbacks hackathon judge ke @918882309014
+21/02/25, 6:06 pm - Arvind: <Media omitted>
+21/02/25, 6:06 pm - Arvind: Real aneek
+21/02/25, 6:06 pm - Rohit Korpal: <Media omitted>
+21/02/25, 6:06 pm - +91 88823 09014: real
+21/02/25, 6:06 pm - +91 91280 90281: Ma to aaunga 🤣
+21/02/25, 6:07 pm - Rohit Korpal: <Media omitted>
+21/02/25, 6:07 pm - Ritika Btech Cse: Abhi ma'am ko bolti hu ki aneek ki galat attendance lg gai aya ni tha🙃
+21/02/25, 6:07 pm - Arvind: Ab to aneek ko dabana hi pdega
+21/02/25, 6:07 pm - Arvind: Aajao sare aneek k dabayenge
+21/02/25, 6:07 pm - Arvind: Aneek ko***
+21/02/25, 6:07 pm - +91 93063 58143: Aneek Kal tere grah kharab h ....Ghar pe rh... as a pandit bta rha hu
+21/02/25, 6:07 pm - Ritika Btech Cse: Same bro
+21/02/25, 6:07 pm - Rohit Korpal: <Media omitted>
+21/02/25, 6:07 pm - +91 91280 90281: Done 👍✅
+21/02/25, 6:08 pm - Rohit Korpal: <Media omitted>
+21/02/25, 6:08 pm - +91 72069 20277: Phrr na jaaye kal?
+21/02/25, 6:08 pm - +91 93063 58143: Oye rohit ko nikal de
+21/02/25, 6:08 pm - Ritika Btech Cse: Nhi 😭
+21/02/25, 6:08 pm - +91 93063 58143: Kyunki ab wo class me nhi aata
+21/02/25, 6:08 pm - Rohit Korpal: <Media omitted>
+21/02/25, 6:08 pm - Rohit Korpal: Abe admin hu mao
+21/02/25, 6:08 pm - Rohit Korpal: 😂 😂
+21/02/25, 6:08 pm - +91 93063 58143: Oye grp leave krde
+21/02/25, 6:08 pm - Neha Sharma: @919873699780 bhai tu internship pe dhyan de na
+21/02/25, 6:08 pm - +91 91280 90281: Na
+21/02/25, 6:08 pm - Rohit Korpal: 😂 😂 😂 😂
+21/02/25, 6:09 pm - Rohit Korpal: Aneek K dabana ka baad
+21/02/25, 6:09 pm - Rohit Korpal: Ko*
+21/02/25, 6:09 pm - Ritika Btech Cse: Bhai topic se mat bhtko 😭😭 <This message was edited>
+21/02/25, 6:09 pm - Rohit Korpal: Dekhuga <This message was edited>
+21/02/25, 6:09 pm - +91 93063 58143: Real
+21/02/25, 6:09 pm - Rohit Korpal: Ara office ka. Kaam. Hogaya
+21/02/25, 6:09 pm - Neha Sharma: Toh sabki baate sun
+21/02/25, 6:09 pm - +91 93063 58143: Overtime kr dhyadi milegi
+21/02/25, 6:10 pm - +91 72069 20277: Dab gya re aneek tu toh
+21/02/25, 6:10 pm - Neha Sharma: Tujhe kuch nhii pta ki kya chal rha h clg mein <This message was edited>
+21/02/25, 6:10 pm - Ritika Btech Cse: Bhai tu aah kyu lagara h🥹
+21/02/25, 6:10 pm - Rohit Korpal: 😂 😂 😂 😂
+21/02/25, 6:10 pm - +91 93063 58143: Sidhanshu 🤨
+21/02/25, 6:10 pm - Rohit Korpal: 😂 😂 😂 😂
+21/02/25, 6:10 pm - +91 91280 90281: 🤣
+21/02/25, 6:11 pm - Rohit Korpal: <Media omitted>
+21/02/25, 6:11 pm - +91 93063 58143: No attendance no onion
+21/02/25, 6:12 pm - Ritika Btech Cse: Bhai isi ko free ki attendance milri h🥹
+21/02/25, 6:12 pm - +91 93063 58143: 🫥
+21/02/25, 6:12 pm - +91 93063 58143: 🗑🚮
+21/02/25, 6:15 pm - Neha Sharma: @919518194737 kanika mam attendance mang rhii h aaj ki jo bache genuinely present the unki attendance bhj de mam ko
+21/02/25, 6:15 pm - Ritika Btech Cse: Ok thik h mein bhej dungi
+21/02/25, 6:15 pm - Ritika Btech Cse: Genuine bachon ki
+21/02/25, 6:16 pm - Neha Sharma: okk 👍
+21/02/25, 6:16 pm - Neha Sharma: Grp 1 ki mein bta dungii grp 2 ki tu dekhle
+21/02/25, 7:22 pm - Rohit Korpal: Mere bhejdena bhai
+21/02/25, 7:23 pm - +91 93063 58143: .
+21/02/25, 7:27 pm - Rohit Korpal: @919128090281 sorry
+21/02/25, 8:22 pm - Niru: <Media omitted>
+21/02/25, 9:01 pm - +91 99589 21087: G1 
+Kal leni hai classes ?
+21/02/25, 9:01 pm - Octopus 🐙🦑: Nahi
+21/02/25, 9:03 pm - +91 99589 21087: Koi le rha hai to bta do
+21/02/25, 9:05 pm - Niru: bhai me kal college aa rha hu
+21/02/25, 9:05 pm - Niru: class leni hai?
+21/02/25, 9:06 pm - Devanshi Sharma 🩷🩷: nhi bhai
+21/02/25, 9:06 pm - +91 99589 21087: .
+21/02/25, 9:30 pm - Neha Sharma: Nhii leni koi bhi class
+22/02/25, 12:09 pm - +91 93153 52473: Aj koi college aya ha
+22/02/25, 12:16 pm - Rohit Korpal: Hn
+24/02/25, 5:46 pm - Neha Sharma: This message was deleted
+24/02/25, 5:47 pm - Neha Sharma: POLL:
+Kal kon kon clg aa rha hai??? As kal shabda mam ka bhi confirm nhi h ki wo aayengi ya nhiii...
+OPTION: Yes (7 votes)
+OPTION: No (21 votes)
+
+24/02/25, 5:54 pm - +91 99101 32913: aaur simmi mam ka ?
+24/02/25, 6:00 pm - Neha Sharma: Wo mujhe nhi pta mein just puch rhi hu
+24/02/25, 6:09 pm - Devanshi Sharma 🩷🩷: Yrr ek lab k liye aaooge kya ab G1
+24/02/25, 6:17 pm - +91 98718 08680: Nhi
+24/02/25, 6:18 pm - +91 99101 32913: apne bol diya to kse aa skte h haam😁
+24/02/25, 6:18 pm - +91 90345 46650: Bc aa jaiye
+24/02/25, 6:19 pm - +91 99101 32913: 1 class k lye?.
+24/02/25, 6:19 pm - +91 90345 46650: Ha
+24/02/25, 6:20 pm - +91 81308 32289: Usme attendance bhi 1 percent h
+24/02/25, 6:20 pm - +91 81308 32289: Aana h bhai
+24/02/25, 8:15 pm - Niru: kisi ke pass 6gb VRAM wala laptop hai?
+24/02/25, 8:15 pm - Niru: kal thodi der ke liye chaiye hoga
+24/02/25, 8:15 pm - Niru: agar la sko to btana
+24/02/25, 8:39 pm - +91 99589 21087: Kal classs aarhe ho group 1
+24/02/25, 8:39 pm - +91 99589 21087: ???
+24/02/25, 9:44 pm - +91 90345 46650: No
+24/02/25, 9:59 pm - Octopus 🐙🦑: Ha
+24/02/25, 10:04 pm - +91 99589 21087: Ok
+25/02/25, 10:27 am - Jai Arora: Group 2 lab in 13 from 10:25
+25/02/25, 10:42 am - Janvi Bhardwaj: Group 1 lab in 414
+25/02/25, 12:06 pm - Pallavi: https://chat.whatsapp.com/GGpqVH3hSZYJ3vOPbLj9lW
+25/02/25, 12:06 pm - Pallavi: Koi rhgya to join krlo
+25/02/25, 6:02 pm - +91 99101 32913: kl chutti h kya??
+25/02/25, 6:02 pm - +91 74950 94484: Ha
+25/02/25, 6:06 pm - +91 99101 32913: rojjer !!
+27/02/25, 11:36 am - Devanshi Sharma 🩷🩷: https://forms.gle/NndfZ8U799es4Jok7
+27/02/25, 11:36 am - Devanshi Sharma 🩷🩷: Fill this form immediately
+27/02/25, 11:41 am - Devanshi Sharma 🩷🩷: Abhi fill krdo sb mam ne kha h
+27/02/25, 11:42 am - Ritika Btech Cse: Charvi ma'am class nhi lengi, adjustment hogi, to koi mt jaana
+27/02/25, 11:45 am - 🌜Anshuman🌛 Cr: POLL:
+G1 last class aaj leni h?
+OPTION: Yes (2 votes)
+OPTION: No (12 votes)
+
+27/02/25, 11:48 am - +91 89206 09086: POLL:
+G2 last lab Leni hai ??
+OPTION: Yes (6 votes)
+OPTION: No (11 votes)
+
+27/02/25, 11:54 am - Rohit Korpal: Anshuman bhai tum g2 KB hua?
+27/02/25, 11:55 am - +91 89206 09086: POLL:
+Arvind or rohit ko group se nikalo 6 month ka liya??
+OPTION: Yes (13 votes)
+OPTION: No (0 votes)
+
+27/02/25, 11:57 am - Rohit Korpal: Grp ka admin ko kaise nikalega 😂😂
+27/02/25, 11:57 am - +91 89206 09086: Admin ko change karo
+27/02/25, 11:57 am - Rohit Korpal: 😂 😂 😂 😂 😂 😂
+27/02/25, 11:57 am - Rohit Korpal: Tujhe banadu?
+27/02/25, 11:57 am - Niru: group admin ke liye poll dal do
+27/02/25, 11:57 am - Rohit Korpal: 😂 😂
+27/02/25, 11:57 am - Rohit Korpal: Kaun kaun contestants hai
+27/02/25, 11:57 am - Rohit Korpal: 😂 😂 😂 😂
+27/02/25, 11:57 am - +91 89206 09086: Aneek ko bna
+27/02/25, 11:58 am - Rohit Korpal: 😂 😂
+27/02/25, 11:58 am - +91 91280 90281: 🤣
+27/02/25, 11:58 am - +91 89206 09086: Vote please 🥺
+27/02/25, 11:59 am - Rohit Korpal: Daksh bhai tumna dil tod dia
+27/02/25, 11:59 am - Rohit Korpal: ❤️🔪💔
+27/02/25, 12:55 pm - +91 89206 09086: or kuch bhi todunga
+27/02/25, 12:57 pm - +91 88823 09014: crazy gameplay 🔥🔥🔥
+27/02/25, 1:31 pm - Octopus 🐙🦑: Group 1 wale bata doo last wali lab leni hai ke nahi ??
+27/02/25, 1:41 pm - Octopus 🐙🦑: POLL:
+Group 1 lab lena hai ke nahi ??
+OPTION: Yes (2 votes)
+OPTION: No (16 votes)
+
+27/02/25, 2:37 pm - +91 93063 58143: G2 don't go in class
+27/02/25, 2:37 pm - Neha Sharma: Grp 1 koi class m gya hai kya???
+27/02/25, 2:41 pm - +91 98718 08680: Nhi
+27/02/25, 9:31 pm - +91 93063 58143: https://youtu.be/_D4Y0jiYxWE?si=6uV_wp0mgT8qHpea
+27/02/25, 9:32 pm - +91 93063 58143: The urge to play it on Holi fest
+27/02/25, 9:32 pm - +91 93063 58143: And watch the whole crowd go berzerk
+27/02/25, 9:33 pm - +91 88823 09014: hard
+27/02/25, 9:33 pm - +91 88823 09014: ek monstercat type beat toh bnani pdegi
+27/02/25, 9:34 pm - +91 93063 58143: Real
+27/02/25, 10:34 pm - Rohit Korpal: bhai kl g2 ki classes nhi hai kya?
+27/02/25, 10:34 pm - +91 93153 52473: Ha bhai sab lega
+27/02/25, 10:34 pm - Rohit Korpal: ok
+28/02/25, 7:52 am - +91 96253 72007: Can any one provide me simmi ma'am's number <This message was edited>
+28/02/25, 7:53 am - Jatin: +91 93546 12103
+28/02/25, 10:27 am - Neha Sharma: <Media omitted>
+28/02/25, 11:48 am - +91 96253 72007: Can someone give asad habeeb's sir's number?
+28/02/25, 11:48 am - 🌜Anshuman🌛 Cr: I marked your attendance
+28/02/25, 11:52 am - +91 96253 72007: Thank you
+28/02/25, 11:52 am - +91 96253 72007: Meri and aakash ki lagadena we are out for the fashion show <This message was edited>
+28/02/25, 11:54 am - +91 93063 58143: <Media omitted>
+28/02/25, 11:58 am - +91 89206 09086: Dattebayo
+28/02/25, 11:59 am - +91 93063 58143: Rasengan
+28/02/25, 12:00 pm - +91 93063 58143: No. Class group 1 last class
+Pls disappear
+28/02/25, 12:19 pm - Rohit Korpal: POLL:
+G2 last lab leni hai?
+OPTION: Yes (5 votes)
+OPTION: No (13 votes)
+
+28/02/25, 12:20 pm - 🌜Anshuman🌛 Cr: G1 last lab ma'am sure nhi h woh le payengi as she is on an industrial visit.
+28/02/25, 12:20 pm - +91 81308 32289: Attendance?
+28/02/25, 2:36 pm - +91 93063 58143: Grp 2 class happening
+28/02/25, 2:38 pm - +91 93063 58143: In lab 12
+28/02/25, 4:37 pm - +91 93063 58143: https://www.reddit.com/r/gurgaon/s/7Ey8eS7eDZ
+28/02/25, 8:10 pm - +91 93153 52473: Tommorow group 2 coming
+28/02/25, 8:12 pm - +91 98718 08680: No
+28/02/25, 9:09 pm - +91 99589 21087: G1 class tomorrow ???
+28/02/25, 9:10 pm - दीपक यादव: Nooo
+28/02/25, 9:10 pm - +91 99589 21087: Koi nhi aayega na pakka
+28/02/25, 9:15 pm - Ritika Btech Cse: Kl koi aayega kya G2 mein
+28/02/25, 9:16 pm - Arvind: <Media omitted>
+28/02/25, 10:28 pm - Riya Sharma: G1 class tomorrow ???
+28/02/25, 10:28 pm - +91 98718 08680: No
+28/02/25, 10:28 pm - +91 93063 58143: Lil bro is office goer
+28/02/25, 10:28 pm - +91 93153 52473: No
+28/02/25, 10:28 pm - +91 98718 08680: Aap aoge
+28/02/25, 10:29 pm - +91 93153 52473: No
+28/02/25, 10:30 pm - Riya Sharma: Plz joo Koi kl class le abhi hi bta doo.. <This message was edited>
+28/02/25, 10:30 pm - +91 98718 08680: Ok
+28/02/25, 10:32 pm - +91 93063 58143: <Media omitted>
+01/03/25, 12:59 am - +91 88823 09014: https://soundcloud.com/aakash-bisht-679935631/fractured-signal
+01/03/25, 12:59 am - +91 88823 09014: music uploaded
+01/03/25, 12:59 am - +91 88823 09014: :D
+01/03/25, 1:11 am - +91 93063 58143: <Media omitted>
+01/03/25, 1:12 am - +91 93063 58143: Music uploaded
+<3
+01/03/25, 1:12 am - +91 88823 09014: yipee
+01/03/25, 3:00 pm - Devanshi Sharma 🩷🩷: <Media omitted>
+01/03/25, 5:45 pm - Rohit Korpal: This message was deleted
+01/03/25, 5:46 pm - +91 93063 58143: finally we got teachers for dbms and sec1
+01/03/25, 5:46 pm - Ritika Btech Cse: <Media omitted>
+01/03/25, 5:47 pm - Ritika Btech Cse pinned a message
+01/03/25, 5:47 pm - Rohit Korpal: <Media omitted>
+01/03/25, 5:50 pm - Arvind: <Media omitted>
+01/03/25, 5:51 pm - Rohit Korpal pinned a message
+01/03/25, 6:26 pm - दीपक यादव: Bhai tu aapna kaam kr na
+01/03/25, 6:27 pm - Arvind: Apne seh pathiyo k liye to samay nikal hi skta hu
+01/03/25, 6:33 pm - दीपक यादव: Huhh 😮‍💨😒
+02/03/25, 11:29 am - +91 99101 32913: assignment bhj do konsa konsa h !!
+02/03/25, 11:51 am - +91 93153 52473: Yes please
+02/03/25, 11:51 am - +91 93063 58143: <Media omitted>
+02/03/25, 11:51 am - +91 93153 52473: Yeam.mam lo dena ha
+02/03/25, 11:51 am - +91 93153 52473: Physicallly
+02/03/25, 11:52 am - +91 93153 52473: Ya kisi drive link par submit karna ha
+02/03/25, 11:52 am - +91 99101 32913: ass2 konsa tha ?
+02/03/25, 11:52 am - Rohit Korpal: Bhai data visualization ki bhi assignment hai nah?
+02/03/25, 11:52 am - +91 93063 58143: Ya ig
+02/03/25, 11:52 am - Rohit Korpal: Yr abhi tk huma kitni assignments mili hai??
+02/03/25, 11:52 am - Rohit Korpal: Shyd 2 data visualization ki hai aur 1 java
+02/03/25, 11:53 am - Rohit Korpal: Bs yhi hai nah??
+02/03/25, 11:55 am - दीपक यादव: Google Classroom pe submit Krna h ??
+02/03/25, 11:55 am - +91 93063 58143: Ji + physically too
+02/03/25, 11:56 am - Rohit Korpal: Aacha
+02/03/25, 12:33 pm - +91 99101 32913: ye wale assignment bhj de bhai?
+02/03/25, 1:00 pm - Rohit Korpal: Ruk dhoondhna padega
+02/03/25, 1:00 pm - Rohit Korpal: Kisi nah java Ki assignment krle kya?
+02/03/25, 1:01 pm - +91 93063 58143: Assignment -2
+Deadline to submit it by next Tuesday, 4th March
+02/03/25, 1:01 pm - +91 93063 58143: <Media omitted>
+02/03/25, 1:01 pm - +91 93063 58143: <Media omitted>
+02/03/25, 1:01 pm - +91 93063 58143: Data visualisation
+02/03/25, 1:02 pm - Rohit Korpal: Submit kaise krne hai??
+02/03/25, 1:02 pm - Rohit Korpal: Aur tuna kare hai kya?
+02/03/25, 1:40 pm - Rohit Korpal: simmi maam reply nhi krte kya msgs ka?
+02/03/25, 1:40 pm - +91 93153 52473: Vo classes ma hi nahi ghusna deti
+02/03/25, 1:41 pm - +91 93153 52473: 10 min late
+02/03/25, 1:41 pm - +91 93153 52473: Hona pae
+02/03/25, 1:44 pm - Rohit Korpal: hn
+02/03/25, 1:44 pm - Rohit Korpal: @919306358143 bhai data visualization ki assignment 1 bhejda
+02/03/25, 1:53 pm - +91 93063 58143: no
+02/03/25, 1:58 pm - दीपक यादव: Why so straight bro 😂😂
+02/03/25, 1:59 pm - +91 93063 58143: Anti lgtv
+03/03/25, 1:44 pm - Devanshi Sharma 🩷🩷: <Media omitted>
+03/03/25, 3:19 pm - +91 99589 21087: Simmi Ma’am ki class mai aarahe ho saare
+03/03/25, 3:19 pm - +91 99589 21087: ????
+03/03/25, 3:21 pm - +91 90345 46650: No
+03/03/25, 3:21 pm - +91 99589 21087: Koi araha hai toh bata dou!
+03/03/25, 3:24 pm - +91 90705 45557: <Media omitted>
+03/03/25, 3:35 pm - 🌜Anshuman🌛 Cr: Class m aa jao ma'am padha rhi h
+04/03/25, 8:59 am - Devanshi Sharma 🩷🩷: group 1 report to lab 11
+04/03/25, 10:32 am - Devanshi Sharma 🩷🩷: Group 2 student report to lab 11
+04/03/25, 10:34 am - Pallavi: Group 2 report lab 13
+04/03/25, 12:08 pm - +91 99101 32913: <Media omitted>
+04/03/25, 12:09 pm - +91 93063 58143: ?
+04/03/25, 12:15 pm - +91 72069 20277: Ye kya h?
+04/03/25, 12:15 pm - दीपक यादव: Attendance list h
+04/03/25, 12:33 pm - +91 85888 17550: Lab ki..??
+04/03/25, 12:34 pm - Octopus 🐙🦑: Group 1 ke hai
+04/03/25, 1:19 pm - दीपक यादव: Seminar tha G1 group wale gye the
+04/03/25, 1:19 pm - +91 93063 58143: W
